@@ -1,9 +1,7 @@
-# zqm201
-
 ## Upcoming Events
 
 * 2022.02.23 - 2022.02.26: [SIAM Conference on Parallel Processing for Scientific Computing](https://www.siam.org/conferences/cm/conference/pp22)
-* 2022.03.24 - 2022.03.26: [Latest Trends and Insights into Matrix Theory, Iterative Methods, and Preconditioning: A Conference Honoring the 65th Birthday of Prof. Daniel B. Szyld](https://www.maths.tcd.ie/~ksoodha/szyld2022/)
+* 2022.03.24 - 2022.03.26: [A Conference Honoring the 65th Birthday of Prof. Daniel B. Szyld](https://www.maths.tcd.ie/~ksoodha/szyld2022/)
 * 2022.04.04 - 2022.04.08: [Copper Mountain Conference On Iterative and Multigrid Methods](https://grandmaster.colorado.edu/copper/)
 * 2022.05.30 - 2022.06.03: [IEEE International Parallel and Distributed Processing Symposium](https://www.ipdps.org)
 * 2022.06.01 - 2022.06.03: [Linear Algebra, Matrix Analysis and Applications](https://congresosalcala.fgua.es/alama2022/)
