@@ -1,9 +1,9 @@
 ## Upcoming Events
 
-* 2022.02.23 - 2022.02.26: [SIAM Conference on Parallel Processing for Scientific Computing](https://www.siam.org/conferences/cm/conference/pp22)
 * 2022.03.24 - 2022.03.26: [A Conference Honoring the 65th Birthday of Prof. Daniel B. Szyld](https://www.maths.tcd.ie/~ksoodha/szyld2022/)
 * 2022.04.04 - 2022.04.08: [Copper Mountain Conference On Iterative and Multigrid Methods](https://grandmaster.colorado.edu/copper/)
 * 2022.04.11 - 2022.04.13: [Recent Advances in Numerical Linear Algebra for PDEs, Optimization, and Data Assimilation](https://www.icms.org.uk/workshops/2022/recent-advances-numerical-linear-algebra-pdes-optimization-and-data-assimilation)
+* 2022.05.04 - 2022.05.06: [University of Arkansas Spring Lecture Series](https://fulbright.uark.edu/departments/math/research/spring-lecture-series)
 * 2022.05.30 - 2022.06.03: [IEEE International Parallel and Distributed Processing Symposium](https://www.ipdps.org)
 * 2022.06.01 - 2022.06.03: [Linear Algebra, Matrix Analysis and Applications](https://congresosalcala.fgua.es/alama2022/)
 * 2022.06.08 - 2022.06.10: [Preconditioning](https://www.chemnitz-am.de/precond2022/)
