@@ -1,6 +1,5 @@
 ## Upcoming Events
 
-* 2022.03.24 - 2022.03.26: [A Conference Honoring the 65th Birthday of Prof. Daniel B. Szyld](https://www.maths.tcd.ie/~ksoodha/szyld2022/)
 * 2022.04.04 - 2022.04.08: [Copper Mountain Conference On Iterative and Multigrid Methods](https://grandmaster.colorado.edu/copper/)
 * 2022.04.11 - 2022.04.13: [Recent Advances in Numerical Linear Algebra for PDEs, Optimization, and Data Assimilation](https://www.icms.org.uk/workshops/2022/recent-advances-numerical-linear-algebra-pdes-optimization-and-data-assimilation)
 * 2022.05.04 - 2022.05.06: [University of Arkansas Spring Lecture Series](https://fulbright.uark.edu/departments/math/research/spring-lecture-series)
@@ -8,6 +7,7 @@
 * 2022.06.01 - 2022.06.03: [Linear Algebra, Matrix Analysis and Applications](https://congresosalcala.fgua.es/alama2022/)
 * 2022.06.08 - 2022.06.10: [Preconditioning](https://www.chemnitz-am.de/precond2022/)
 * 2022.06.12 - 2022.06.17: [Householder Symposium on Numerical Linear Algebra](https://users.ba.cnr.it//iac/irmanm21/HHXXI/index.html)
+* 2022.06.13 - 2022.06.16: [European Seminar on Computing](http://esco2022.femhub.com)
 * 2022.06.15 - 2022.06.17: [International Conference on Matrix Analysis and Applications](https://sites.google.com/view/icmaa-2022)
 * 2022.06.20 - 2022.06.22: [Sparse Days](https://sparsedays.cerfacs.fr)
 * 2022.06.20 - 2022.06.24: [Conference of the International Linear Algebra Society](http://ilas2020.ie)
@@ -18,6 +18,7 @@
 * 2022.07.11 - 2022.07.14: [ACM Symposium on Parallelism in Algorithms and Architectures](https://spaa.acm.org)
 * 2022.08.15 - 2022.08.19: [The GAMM Annual Meeting](https://jahrestagung.gamm-ev.de)
 * 2022.09.04 - 2022.09.07: [Workshop on Computer Aspects of Numerical Algorithms](https://fedcsis.org/2022/cana)
+* 2022.09.05 - 2022.09.06: [Challenges in Numerical Analysis and Scientific Computing](https://w3.math.uminho.pt/conferences/cnasc)
 * 2022.09.22 - 2022.09.23: [GAMM Workshop on Applied and Numerical Linear Algebra](https://sites.google.com/view/gammanla2022/)
 * 2022.11.13 - 2022.11.18: [International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc22.supercomputing.org)
 
