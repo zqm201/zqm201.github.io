@@ -1,7 +1,5 @@
 ## Upcoming Events
 
-* 2022.04.04 - 2022.04.08: [Copper Mountain Conference On Iterative and Multigrid Methods](https://grandmaster.colorado.edu/copper/)
-* 2022.04.11 - 2022.04.13: [Recent Advances in Numerical Linear Algebra for PDEs, Optimization, and Data Assimilation](https://www.icms.org.uk/workshops/2022/recent-advances-numerical-linear-algebra-pdes-optimization-and-data-assimilation)
 * 2022.05.04 - 2022.05.06: [University of Arkansas Spring Lecture Series](https://fulbright.uark.edu/departments/math/research/spring-lecture-series)
 * 2022.05.30 - 2022.06.03: [IEEE International Parallel and Distributed Processing Symposium](https://www.ipdps.org)
 * 2022.06.01 - 2022.06.03: [Linear Algebra, Matrix Analysis and Applications](https://congresosalcala.fgua.es/alama2022/)
@@ -17,9 +15,11 @@
 * 2022.07.06 - 2022.07.08: [Advances in Numerical Linear Algebra: Celebrating the 60th Birthday of Nick Higham](https://nla-group.org/njh60/)
 * 2022.07.11 - 2022.07.14: [ACM Symposium on Parallelism in Algorithms and Architectures](https://spaa.acm.org)
 * 2022.08.15 - 2022.08.19: [The GAMM Annual Meeting](https://jahrestagung.gamm-ev.de)
+* 2022.08.23 - 2022.08.25: [International Conference on Engineering Computational Technology](http://www.ectconference.com)
 * 2022.09.04 - 2022.09.07: [Workshop on Computer Aspects of Numerical Algorithms](https://fedcsis.org/2022/cana)
 * 2022.09.05 - 2022.09.06: [Challenges in Numerical Analysis and Scientific Computing](https://w3.math.uminho.pt/conferences/cnasc)
 * 2022.09.22 - 2022.09.23: [GAMM Workshop on Applied and Numerical Linear Algebra](https://sites.google.com/view/gammanla2022/)
+* 2022.10.28 - 2022.10.30: [IEEE International Conference on Computational Science and Engineering](http://www.ieee-hust-ncc.org/2022/CSE/)
 * 2022.11.13 - 2022.11.18: [International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc22.supercomputing.org)
 
 ## Journals
