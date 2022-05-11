@@ -1,6 +1,5 @@
 ## Upcoming Events
 
-* 2022.05.04 - 2022.05.06: [University of Arkansas Spring Lecture Series](https://fulbright.uark.edu/departments/math/research/spring-lecture-series)
 * 2022.05.30 - 2022.06.03: [IEEE International Parallel and Distributed Processing Symposium](https://www.ipdps.org)
 * 2022.06.01 - 2022.06.03: [Linear Algebra, Matrix Analysis and Applications](https://congresosalcala.fgua.es/alama2022/)
 * 2022.06.08 - 2022.06.10: [Preconditioning](https://www.chemnitz-am.de/precond2022/)
@@ -14,6 +13,7 @@
 * 2022.06.29 - 2022.07.01: [IMA Conference on Numerical Linear Algebra and Optimization](https://ima.org.uk/12530/7th-ima-conference-on-numerical-linear-algebra-and-optimization/)
 * 2022.07.06 - 2022.07.08: [Advances in Numerical Linear Algebra: Celebrating the 60th Birthday of Nick Higham](https://nla-group.org/njh60/)
 * 2022.07.11 - 2022.07.14: [ACM Symposium on Parallelism in Algorithms and Architectures](https://spaa.acm.org)
+* 2022.07.21 - 2022.07.24: [SOLVER](https://solver-conference.cn)
 * 2022.08.15 - 2022.08.19: [The GAMM Annual Meeting](https://jahrestagung.gamm-ev.de)
 * 2022.08.23 - 2022.08.25: [International Conference on Engineering Computational Technology](http://www.ectconference.com)
 * 2022.09.04 - 2022.09.07: [Workshop on Computer Aspects of Numerical Algorithms](https://fedcsis.org/2022/cana)
