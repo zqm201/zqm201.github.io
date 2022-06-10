@@ -1,8 +1,5 @@
 ## Upcoming Events
 
-* 2022.05.30 - 2022.06.03: [IEEE International Parallel and Distributed Processing Symposium](https://www.ipdps.org)
-* 2022.06.01 - 2022.06.03: [Linear Algebra, Matrix Analysis and Applications](https://congresosalcala.fgua.es/alama2022/)
-* 2022.06.08 - 2022.06.10: [Preconditioning](https://www.chemnitz-am.de/precond2022/)
 * 2022.06.12 - 2022.06.17: [Householder Symposium on Numerical Linear Algebra](https://users.ba.cnr.it//iac/irmanm21/HHXXI/index.html)
 * 2022.06.13 - 2022.06.16: [European Seminar on Computing](http://esco2022.femhub.com)
 * 2022.06.15 - 2022.06.17: [International Conference on Matrix Analysis and Applications](https://sites.google.com/view/icmaa-2022)
@@ -19,6 +16,7 @@
 * 2022.09.04 - 2022.09.07: [Workshop on Computer Aspects of Numerical Algorithms](https://fedcsis.org/2022/cana)
 * 2022.09.05 - 2022.09.06: [Challenges in Numerical Analysis and Scientific Computing](https://w3.math.uminho.pt/conferences/cnasc)
 * 2022.09.22 - 2022.09.23: [GAMM Workshop on Applied and Numerical Linear Algebra](https://sites.google.com/view/gammanla2022/)
+* 2022.10.26 - 2022.10.28: [MaRDI Workshop on Scientific Computing](https://workshop.mardi.ovh)
 * 2022.10.28 - 2022.10.30: [IEEE International Conference on Computational Science and Engineering](http://www.ieee-hust-ncc.org/2022/CSE/)
 * 2022.11.13 - 2022.11.18: [International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc22.supercomputing.org)
 
