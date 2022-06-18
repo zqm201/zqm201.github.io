@@ -1,8 +1,5 @@
 ## Upcoming Events
 
-* 2022.06.12 - 2022.06.17: [Householder Symposium on Numerical Linear Algebra](https://users.ba.cnr.it//iac/irmanm21/HHXXI/index.html)
-* 2022.06.13 - 2022.06.16: [European Seminar on Computing](http://esco2022.femhub.com)
-* 2022.06.15 - 2022.06.17: [International Conference on Matrix Analysis and Applications](https://sites.google.com/view/icmaa-2022)
 * 2022.06.20 - 2022.06.22: [Sparse Days](https://sparsedays.cerfacs.fr)
 * 2022.06.20 - 2022.06.24: [Conference of the International Linear Algebra Society](http://ilas2020.ie)
 * 2022.06.20 - 2022.06.24: [Conference on Random Matrix Theory and Numerical Linear Algebra](http://faculty.washington.edu/trogdon/RMT+NLA/index.html)
@@ -19,6 +16,7 @@
 * 2022.10.26 - 2022.10.28: [MaRDI Workshop on Scientific Computing](https://workshop.mardi.ovh)
 * 2022.10.28 - 2022.10.30: [IEEE International Conference on Computational Science and Engineering](http://www.ieee-hust-ncc.org/2022/CSE/)
 * 2022.11.13 - 2022.11.18: [International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc22.supercomputing.org)
+* 2023.06.12 - 2023.06.21: [Foundations of Computational Mathematics](https://focm2023.org)
 
 ## Journals
 
