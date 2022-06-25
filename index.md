@@ -1,10 +1,5 @@
 ## Upcoming Events
 
-* 2022.06.20 - 2022.06.22: [Sparse Days](https://sparsedays.cerfacs.fr)
-* 2022.06.20 - 2022.06.24: [Conference of the International Linear Algebra Society](http://ilas2020.ie)
-* 2022.06.20 - 2022.06.24: [Conference on Random Matrix Theory and Numerical Linear Algebra](http://faculty.washington.edu/trogdon/RMT+NLA/index.html)
-* 2022.06.27 - 2022.07.01: [ACM Symposium on High-Performance Parallel and Distributed Computing](http://www.hpdc.org)
-* 2022.06.29 - 2022.07.01: [IMA Conference on Numerical Linear Algebra and Optimization](https://ima.org.uk/12530/7th-ima-conference-on-numerical-linear-algebra-and-optimization/)
 * 2022.07.06 - 2022.07.08: [Advances in Numerical Linear Algebra: Celebrating the 60th Birthday of Nick Higham](https://nla-group.org/njh60/)
 * 2022.07.11 - 2022.07.14: [ACM Symposium on Parallelism in Algorithms and Architectures](https://spaa.acm.org)
 * 2022.07.21 - 2022.07.24: [SOLVER](https://solver-conference.cn)
@@ -13,6 +8,7 @@
 * 2022.09.04 - 2022.09.07: [Workshop on Computer Aspects of Numerical Algorithms](https://fedcsis.org/2022/cana)
 * 2022.09.05 - 2022.09.06: [Challenges in Numerical Analysis and Scientific Computing](https://w3.math.uminho.pt/conferences/cnasc)
 * 2022.09.22 - 2022.09.23: [GAMM Workshop on Applied and Numerical Linear Algebra](https://sites.google.com/view/gammanla2022/)
+* 2022.09.22 - 2022.09.23: [CSIAM](https://meeting.csiam.org.cn/)
 * 2022.10.26 - 2022.10.28: [MaRDI Workshop on Scientific Computing](https://workshop.mardi.ovh)
 * 2022.10.28 - 2022.10.30: [IEEE International Conference on Computational Science and Engineering](http://www.ieee-hust-ncc.org/2022/CSE/)
 * 2022.11.13 - 2022.11.18: [International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc22.supercomputing.org)
