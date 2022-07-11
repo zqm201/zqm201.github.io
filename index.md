@@ -1,7 +1,5 @@
 ## Upcoming Events
 
-* 2022.07.06 - 2022.07.08: [Advances in Numerical Linear Algebra: Celebrating the 60th Birthday of Nick Higham](https://nla-group.org/njh60/)
-* 2022.07.11 - 2022.07.14: [ACM Symposium on Parallelism in Algorithms and Architectures](https://spaa.acm.org)
 * 2022.07.21 - 2022.07.24: [SOLVER](https://solver-conference.cn)
 * 2022.08.15 - 2022.08.19: [The GAMM Annual Meeting](https://jahrestagung.gamm-ev.de)
 * 2022.08.23 - 2022.08.25: [International Conference on Engineering Computational Technology](http://www.ectconference.com)
@@ -12,6 +10,7 @@
 * 2022.10.26 - 2022.10.28: [MaRDI Workshop on Scientific Computing](https://workshop.mardi.ovh)
 * 2022.10.28 - 2022.10.30: [IEEE International Conference on Computational Science and Engineering](http://www.ieee-hust-ncc.org/2022/CSE/)
 * 2022.11.13 - 2022.11.18: [International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc22.supercomputing.org)
+* 2023.01.23 - 2023.01.27: [Seminar on Numerical Analysis](https://www.ugn.cas.cz/event/2023/sna/)
 * 2023.06.12 - 2023.06.21: [Foundations of Computational Mathematics](https://focm2023.org)
 
 ## Journals
