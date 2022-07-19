@@ -11,6 +11,7 @@
 * 2022.10.28 - 2022.10.30: [IEEE International Conference on Computational Science and Engineering](http://www.ieee-hust-ncc.org/2022/CSE/)
 * 2022.11.13 - 2022.11.18: [International Conference for High Performance Computing, Networking, Storage, and Analysis](https://sc22.supercomputing.org)
 * 2023.01.23 - 2023.01.27: [Seminar on Numerical Analysis](https://www.ugn.cas.cz/event/2023/sna/)
+* 2023.02.26 - 2023.03.03: [SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse23)
 * 2023.03.05 - 2023.03.10: [Perspectives on Matrix Computations: Theoretical Computer Science Meets Numerical Analysis](https://www.birs.ca/events/2023/5-day-workshops/23w5108)
 * 2023.06.12 - 2023.06.21: [Foundations of Computational Mathematics](https://focm2023.org)
 
