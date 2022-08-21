@@ -1,9 +1,7 @@
 ## Upcoming Events
 
 * 2022.06.13 - 2022.06.16: [ESCO](https://www.esco2022.femhub.com)
-* 2022.07.21 - 2022.07.24: [SOLVER](https://solver-conference.cn)
-* 2022.08.15 - 2022.08.19: [The GAMM Annual Meeting](https://jahrestagung.gamm-ev.de)
-* 2022.08.23 - 2022.08.25: [International Conference on Engineering Computational Technology](http://www.ectconference.com)
+* 2022.08.23 - 2022.08.25: [CST](https://www.cstconference.com) / [ECT](http://www.ectconference.com)
 * 2022.09.04 - 2022.09.07: [Workshop on Computer Aspects of Numerical Algorithms](https://fedcsis.org/2022/cana)
 * 2022.09.05 - 2022.09.06: [Challenges in Numerical Analysis and Scientific Computing](https://w3.math.uminho.pt/conferences/cnasc)
 * 2022.09.22 - 2022.09.23: [GAMM Workshop on Applied and Numerical Linear Algebra](https://sites.google.com/view/gammanla2022/)
