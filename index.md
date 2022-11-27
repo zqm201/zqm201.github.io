@@ -1,7 +1,5 @@
 ## Upcoming Events
 
-* 2022.08.23 - 2022.08.25: [CST](https://www.cstconference.com) / [ECT](http://www.ectconference.com)
-* 2022.11.17 - 2022.11.20: [CSIAM](https://meeting.csiam.org.cn/)
 * 2023.01.23 - 2023.01.27: [Seminar on Numerical Analysis](https://www.ugn.cas.cz/event/2023/sna/), Ostrava, Czech Republic
 * 2023.02.26 - 2023.03.03: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam, The Netherlands
 * 2023.03.05 - 2023.03.10: [Perspectives on Matrix Computations](https://www.birs.ca/events/2023/5-day-workshops/23w5108), Banff, Canada
@@ -12,9 +10,12 @@
 * 2023.06.19 - 2023.06.20: [Sparsedays](https://sparsedays.cerfacs.fr/en/), Saint-Girons, France
 * 2023.06.27 - 2023.06.30: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
 * 2023.07.03 - 2023.07.06: [NASCA](https://nasca23.univ-littoral.fr), Athens, Greece
+* 2023.08.14 - 2023.08.17: [Numerical Analysis in the 21st Century](https://21stcenturyna.github.io), Oxford, UK
 * 2023.08.20 - 2023.08.25: [ICIAM](https://iciam2023.org), Tokyo, Japan
 * 2023.09.04 - 2023.09.08: [ENUMATH](https://enumath2023.com), Lisbon, Portugal
+* 2023.09.13 - 2023.09.15: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Aachen, Germany
 * 2023.09.11 - 2023.09.15: [MatTriad](https://sparrow.up.poznan.pl/mattriad2023/), Bedlewo, Poland
+* 2023.09.25 - 2023.09.27: [The f(A)b workshop](https://indico3.mpi-magdeburg.mpg.de/event/30/), Magdeburg, Germany
 
 ## Journals
 
