@@ -4,6 +4,7 @@
 * 2023.02.26 - 2023.03.03: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam, The Netherlands
 * 2023.03.05 - 2023.03.10: [Perspectives on Matrix Computations](https://www.birs.ca/events/2023/5-day-workshops/23w5108), Banff, Canada
 * 2023.04.16 - 2023.04.23: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
+* 2023.06.05 - 2023.06.09: [CANA](https://bugs.unica.it/cana23/), Cagliari, Italy
 * 2023.06.05 - 2023.06.09: [Large-Scale Scientific Computations](https://parallel.bas.bg/Conferences/SciCom23/), Sozopol, Bulgaria
 * 2023.06.12 - 2023.06.16: [ILAS](https://ilas2023.es), Madrid, Spain
 * 2023.06.12 - 2023.06.21: [FoCM](https://focm2023.org), Paris, France
