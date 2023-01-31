@@ -1,6 +1,5 @@
 ## Upcoming Events
 
-* 2023.01.23 - 2023.01.27: [Seminar on Numerical Analysis](https://www.ugn.cas.cz/event/2023/sna/), Ostrava, Czech Republic
 * 2023.02.26 - 2023.03.03: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam, The Netherlands
 * 2023.03.05 - 2023.03.10: [Perspectives on Matrix Computations](https://www.birs.ca/events/2023/5-day-workshops/23w5108), Banff, Canada
 * 2023.04.16 - 2023.04.23: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
@@ -18,6 +17,7 @@
 * 2023.09.11 - 2023.09.15: [MatTriad](https://sparrow.up.poznan.pl/mattriad2023/), Bedlewo, Poland
 * 2023.09.13 - 2023.09.15: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Aachen, Germany
 * 2023.09.25 - 2023.09.27: [The f(A)b workshop](https://indico3.mpi-magdeburg.mpg.de/event/30/), Magdeburg, Germany
+* 2023.10.05 - 2023.10.06: [GAMM ANLA](https://www.uni-augsburg.de/en/fakultaet/mntf/math/tagungen/anla2023/), Augsburg, Germany
 
 ## Journals
 
