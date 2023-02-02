@@ -12,6 +12,7 @@
 * 2023.07.03 - 2023.07.06: [NASCA](https://nasca23.univ-littoral.fr), Athens, Greece
 * 2023.08.14 - 2023.08.17: [Numerical Analysis in the 21st Century](https://21stcenturyna.github.io), Oxford, UK
 * 2023.08.20 - 2023.08.25: [ICIAM](https://iciam2023.org), Tokyo, Japan
+* 2023.08.28 - 2023.08.31: [PARENG](https://www.civil-comp.info/2023/), Pécs, Hungary
 * 2023.09.04 - 2023.09.08: [ENUMATH](https://enumath2023.com), Lisbon, Portugal
 * 2023.09.11 - 2023.09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
 * 2023.09.11 - 2023.09.15: [MatTriad](https://sparrow.up.poznan.pl/mattriad2023/), Bedlewo, Poland
