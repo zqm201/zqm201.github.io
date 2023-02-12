@@ -3,11 +3,14 @@
 * 2023.02.26 - 2023.03.03: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam, The Netherlands
 * 2023.03.05 - 2023.03.10: [Perspectives on Matrix Computations](https://www.birs.ca/events/2023/5-day-workshops/23w5108), Banff, Canada
 * 2023.04.16 - 2023.04.23: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
+* 2023.05.30 - 2023.06.02: [GAMM](https://jahrestagung.gamm-ev.de), Dresden, Germany
 * 2023.06.05 - 2023.06.09: [CANA](https://bugs.unica.it/cana23/), Cagliari, Italy
 * 2023.06.05 - 2023.06.09: [Large-Scale Scientific Computations](https://parallel.bas.bg/Conferences/SciCom23/), Sozopol, Bulgaria
 * 2023.06.12 - 2023.06.16: [ILAS](https://ilas2023.es), Madrid, Spain
 * 2023.06.12 - 2023.06.21: [FoCM](https://focm2023.org), Paris, France
+* 2023.06.16 - 2023.06.19: [SPAA](https://spaa.acm.org), Orlando, Florida
 * 2023.06.19 - 2023.06.20: [Sparsedays](https://sparsedays.cerfacs.fr/en/), Saint-Girons, France
+* 2023.06.26 - 2023.06.28: [PASC](https://pasc23.pasc-conference.org), Davos, Switzerland
 * 2023.06.27 - 2023.06.30: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
 * 2023.07.03 - 2023.07.06: [NASCA](https://nasca23.univ-littoral.fr), Athens, Greece
 * 2023.08.14 - 2023.08.17: [Numerical Analysis in the 21st Century](https://21stcenturyna.github.io), Oxford, UK
@@ -19,6 +22,10 @@
 * 2023.09.13 - 2023.09.15: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Aachen, Germany
 * 2023.09.25 - 2023.09.27: [The f(A)b workshop](https://indico3.mpi-magdeburg.mpg.de/event/30/), Magdeburg, Germany
 * 2023.10.05 - 2023.10.06: [GAMM ANLA](https://www.uni-augsburg.de/en/fakultaet/mntf/math/tagungen/anla2023/), Augsburg, Germany
+
+## Past Events
+
+* 2023.01.23 - 2023.01.27: [SNA](https://www.ugn.cas.cz/event/2023/sna/), Ostrava, Czech Republic
 
 ## Journals
 
