@@ -37,7 +37,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 * Journals: [Acta Numerica](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.math.kent.edu), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications/issues), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [SIMAX](https://epubs.siam.org/toc/sjmael/current), [SISC](https://epubs.siam.org/toc/sijcd4/current), [TOMS](https://dl.acm.org/toc/toms/current)
 * Societies: [CSIAM](https://www.csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-	- 03.05-03.10: [Perspectives on Matrix Computations](https://www.birs.ca/events/2023/5-day-workshops/23w5108), Banff, Canada
 	- 04.16-04.23: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
 	- 05.30-06.02: [GAMM](https://jahrestagung.gamm-ev.de), Dresden, Germany
 	- 06.05-06.09: [CANA](https://bugs.unica.it/cana23/), Cagliari, Italy
@@ -50,7 +49,8 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 06.26-06.28: [PASC](https://pasc23.pasc-conference.org), Davos, Switzerland
 	- 06.27-06.30: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
 	- 07.03-07.06: [NASCA](https://nasca23.univ-littoral.fr), Athens, Greece
-	- 07.15-07.19: [CSCM](http://www.cscm2021.com)
+	- 07.07-07.09: [CSIAM-BDAI](https://csiam-bdai2022.casconf.cn), Guiyang, China
+	- 07.15-07.19: [CSCM](http://www.cscm2021.com), Nanjing, China
 	- 07.17-07.21: [Brazil-China Joint Mathematical Meeting](https://sbm.org.br/jointmeeting-china/), Foz do Iguacu, Brazil
 	- 08.14-08.17: [Numerical Analysis in the 21st Century](https://21stcenturyna.github.io), Oxford, England
 	- 08.20-08.25: [ICIAM](https://iciam2023.org), Tokyo, Japan
@@ -69,4 +69,5 @@ Past Events:
 
 01.23-01.27: [SNA](https://www.ugn.cas.cz/event/2023/sna/), Ostrava, Czech Republic
 02.26-03.03: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam, The Netherlands
+03.05-03.10: [Perspectives on Matrix Computations](https://www.birs.ca/events/2023/5-day-workshops/23w5108), Banff, Canada
 -->
