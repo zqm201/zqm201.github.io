@@ -1,11 +1,14 @@
+<!--
 # Qinmeng Zou
 
 I'm an associate professor in the [School of Science](https://science.bupt.edu.cn) at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn). My research focuses on numerical linear algebra and high performance computing. I obtained my PhD in Applied Mathematics from [Université Paris-Saclay](https://www.universite-paris-saclay.fr) in 2019.
+-->
 
 <!--
 [[Google Scholar](https://scholar.google.com/citations?user=C907JC8AAAAJ&hl=en)][[ORCID](https://orcid.org/0000-0001-7752-8100)]
 -->
 
+<!--
 ## CV
 
 * Jan 2023 - present: Associate Professor, School of Science, BUPT, China
@@ -34,10 +37,11 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 
 ## Links
 
+-->
+
 * Journals: [Acta Numerica](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.math.kent.edu), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications/issues), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [SIMAX](https://epubs.siam.org/toc/sjmael/current), [SISC](https://epubs.siam.org/toc/sijcd4/current), [TOMS](https://dl.acm.org/toc/toms/current)
 * Societies: [CSIAM](https://www.csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-	- 04.16-04.23: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
 	- 05.30-06.02: [GAMM](https://jahrestagung.gamm-ev.de), Dresden, Germany
 	- 06.05-06.09: [CANA](https://bugs.unica.it/cana23/), Cagliari, Italy
 	- 06.05-06.09: [Large-Scale Scientific Computations](https://parallel.bas.bg/Conferences/SciCom23/), Sozopol, Bulgaria
@@ -74,4 +78,5 @@ Past Events:
 01.23-01.27: [SNA](https://www.ugn.cas.cz/event/2023/sna/), Ostrava, Czech Republic
 02.26-03.03: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam, The Netherlands
 03.05-03.10: [Perspectives on Matrix Computations](https://www.birs.ca/events/2023/5-day-workshops/23w5108), Banff, Canada
+04.16-04.23: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
 -->
