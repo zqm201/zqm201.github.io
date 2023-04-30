@@ -69,6 +69,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 09.17-09.20: [CANA](https://fedcsis.org/sessions/css/cana), Warsaw, Poland
 	- 09.25-09.27: [The f(A)b workshop](https://indico3.mpi-magdeburg.mpg.de/event/30/), Magdeburg, Germany
 	- 10.05-10.06: [GAMM ANLA](https://www.uni-augsburg.de/en/fakultaet/mntf/math/tagungen/anla2023/), Augsburg, Germany
+	- 10.12-10.15: [CSIAM](https://meeting.csiam.org.cn/), Kunming, China
 
 <!--
 Past Events:
