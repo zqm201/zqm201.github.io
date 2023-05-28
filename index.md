@@ -52,6 +52,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 06.19-06.20: [Sparsedays](https://sparsedays.cerfacs.fr/en/), Saint-Girons, France
 	- 06.26-06.28: [PASC](https://pasc23.pasc-conference.org), Davos, Switzerland
 	- 06.27-06.30: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
+	- 07.03-07.05: [ICCS](https://www.iccs-meeting.org/iccs2023/), Prague, Czech Republic
 	- 07.03-07.06: [NASCA](https://nasca23.univ-littoral.fr), Athens, Greece
 	- 07.07-07.09: [CSIAM-BDAI](https://csiam-bdai2022.casconf.cn), Guiyang, China
 	- 07.15-07.19: [CSCM](http://www.cscm2021.com), Nanjing, China
@@ -70,6 +71,8 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 09.25-09.27: [The f(A)b workshop](https://indico3.mpi-magdeburg.mpg.de/event/30/), Magdeburg, Germany
 	- 10.05-10.06: [GAMM ANLA](https://www.uni-augsburg.de/en/fakultaet/mntf/math/tagungen/anla2023/), Augsburg, Germany
 	- 10.12-10.15: [CSIAM](https://meeting.csiam.org.cn/), Kunming, China
+	- 11.12-11.17: [SC23](https://sc23.supercomputing.org), Denver, CO
+	- (2024) 05.13-05.17: [LA24](https://www.siam.org/conferences/cm/conference/la24), Paris, France
 
 <!--
 Past Events:
