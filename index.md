@@ -42,13 +42,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 * Journals: [Acta Numerica](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.math.kent.edu), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications/issues), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [SIMAX](https://epubs.siam.org/toc/sjmael/current), [SISC](https://epubs.siam.org/toc/sijcd4/current), [TOMS](https://dl.acm.org/toc/toms/current)
 * Societies: [CSIAM](https://www.csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-	- 06.05-06.09: [CANA](https://bugs.unica.it/cana23/), Cagliari, Italy
-	- 06.05-06.09: [Large-Scale Scientific Computations](https://parallel.bas.bg/Conferences/SciCom23/), Sozopol, Bulgaria
-	- 06.12-06.16: [ILAS](https://ilas2023.es), Madrid, Spain
-	- 06.12-06.21: [FoCM](https://focm2023.org), Paris, France
-	- 06.14-06.20: [NUMTA](https://www.numta.org), Calabria, Italy
-	- 06.16-06.19: [SPAA](https://spaa.acm.org), Orlando, Florida
-	- 06.19-06.20: [Sparsedays](https://sparsedays.cerfacs.fr/en/), Saint-Girons, France
 	- 06.26-06.28: [PASC](https://pasc23.pasc-conference.org), Davos, Switzerland
 	- 06.27-06.30: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
 	- 07.03-07.05: [ICCS](https://www.iccs-meeting.org/iccs2023/), Prague, Czech Republic
@@ -60,6 +53,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 08.14-08.17: [Numerical Analysis in the 21st Century](https://21stcenturyna.github.io), Oxford, England
 	- 08.15-08.18: [ICNONLA](http://lsec.cc.ac.cn/~icnonla23/), Taiyuan, China
 	- 08.20-08.25: [ICIAM](https://iciam2023.org), Tokyo, Japan
+	- 08.23-08.25: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2023), 青岛
 	- 08.27-09.01: [New Directions in Applied Linear Algebra](http://www.birs.ca/events/2023/5-day-workshops/23w5004), Banff, Canada
 	- 08.27-08.30: [京津冀计算数学交流会](http://math.sxu.edu.cn/ggtz/f529de2c9f404ff7bf583f572db79a96.htm), 太原
 	- 08.28-08.31: [PARENG](https://www.civil-comp.info/2023/), Pécs, Hungary
@@ -80,3 +74,10 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
    - 03.05-03.10: [Perspectives on Matrix Computations](https://www.birs.ca/events/2023/5-day-workshops/23w5108), Banff, Canada
    - 04.16-04.23: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
    - 05.30-06.02: [GAMM](https://jahrestagung.gamm-ev.de), Dresden, Germany
+	- 06.05-06.09: [CANA](https://bugs.unica.it/cana23/), Cagliari, Italy
+	- 06.05-06.09: [Large-Scale Scientific Computations](https://parallel.bas.bg/Conferences/SciCom23/), Sozopol, Bulgaria
+	- 06.12-06.16: [ILAS](https://ilas2023.es), Madrid, Spain
+	- 06.12-06.21: [FoCM](https://focm2023.org), Paris, France
+	- 06.14-06.20: [NUMTA](https://www.numta.org), Calabria, Italy
+	- 06.16-06.19: [SPAA](https://spaa.acm.org), Orlando, Florida
+	- 06.19-06.20: [Sparsedays](https://sparsedays.cerfacs.fr/en/), Saint-Girons, France
