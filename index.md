@@ -53,7 +53,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 08.14-08.17: [Numerical Analysis in the 21st Century](https://21stcenturyna.github.io), Oxford, England
 	- 08.15-08.18: [ICNONLA](http://lsec.cc.ac.cn/~icnonla23/), Taiyuan, China
 	- 08.20-08.25: [ICIAM](https://iciam2023.org), Tokyo, Japan
-	- 08.23-08.25: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2023), 青岛
+	- 08.24-08.26: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2023), 青岛
 	- 08.27-09.01: [New Directions in Applied Linear Algebra](http://www.birs.ca/events/2023/5-day-workshops/23w5004), Banff, Canada
 	- 08.27-08.30: [京津冀计算数学交流会](http://math.sxu.edu.cn/ggtz/f529de2c9f404ff7bf583f572db79a96.htm), 太原
 	- 08.28-08.31: [PARENG](https://www.civil-comp.info/2023/), Pécs, Hungary
