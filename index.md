@@ -68,6 +68,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 11.12-11.17: [SC23](https://sc23.supercomputing.org), Denver, CO
 	- 11.15-11.17: [Computational Mathematics for Data Science](https://cmds.compute.dtu.dk), Copenhagen, Denmark
 	- (2024) 01.03-01.06: [JMM](https://www.jointmathematicsmeetings.org//jmm), San Francisco, CA
+	- (2024) 03.05-03.08: [PP24](https://www.siam.org/conferences/cm/conference/pp24), Baltimore, MD
 	- (2024) 05.13-05.17: [LA24](https://www.siam.org/conferences/cm/conference/la24), Paris, France
 * Past Events
    - 01.23-01.27: [SNA](https://www.ugn.cas.cz/event/2023/sna/), Ostrava, Czech Republic
