@@ -42,7 +42,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 * Journals: [Acta Numerica](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.math.kent.edu), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications/issues), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [SIMAX](https://epubs.siam.org/toc/sjmael/current), [SISC](https://epubs.siam.org/toc/sijcd4/current), [TOMS](https://dl.acm.org/toc/toms/current)
 * Societies: [CSIAM](https://www.csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-	- 07.15-07.19: [中国数学会计算数学年会](http://www.cscm2021.com), 南京
 	- 08.07-08.10: [ICPP](https://icpp23.sci.utah.edu), Salt Lake City, Utah
 	- 08.07-08.11: [解法器快速算法及应用研讨会](https://www.solver-conference.cn), 西宁
 	- 08.14-08.17: [Numerical Analysis in the 21st Century](https://21stcenturyna.github.io), Oxford, England
@@ -60,6 +59,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 09.25-09.27: [The f(A)b workshop](https://indico3.mpi-magdeburg.mpg.de/event/30/), Magdeburg, Germany
 	- 10.05-10.06: [GAMM ANLA](https://www.uni-augsburg.de/en/fakultaet/mntf/math/tagungen/anla2023/), Augsburg, Germany
 	- 10.12-10.15: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 昆明
+	- 10.18-10.19: [Workshop on Sparse Tensor Computations](https://solomonik.cs.illinois.edu/tensor_workshop/), Chicago, IL
 	- 11.04-11.05: [Conference on Fast Direct Solvers](https://www.math.purdue.edu/~xiaj/FastSolvers2023/), West Lafayette, IN
 	- 11.12-11.17: [SC23](https://sc23.supercomputing.org), Denver, CO
 	- 11.15-11.17: [Computational Mathematics for Data Science](https://cmds.compute.dtu.dk), Copenhagen, Denmark
@@ -84,3 +84,5 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 07.03-07.05: [ICCS](https://www.iccs-meeting.org/iccs2023/), Prague, Czech Republic
 	- 07.03-07.06: [NASCA](https://nasca23.univ-littoral.fr), Athens, Greece
 	- 07.07-07.09: [全国大数据与人工智能科学大会](https://csiam-bdai2022.casconf.cn), 贵阳
+	- 07.15-07.19: [中国数学会计算数学年会](http://www.cscm2021.com), 南京
+* Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/)
