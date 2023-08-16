@@ -43,7 +43,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 * Societies: [CSIAM](https://www.csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
 	- 08.14-08.17: [Numerical Analysis in the 21st Century](https://21stcenturyna.github.io), Oxford, England
-	- 08.15-08.18: [ICNONLA](http://lsec.cc.ac.cn/~icnonla23/), Taiyuan, China
+	- 08.15-08.18: [ICNONLA](http://lsec.cc.ac.cn/~icnonla23/), 太原
 	- 08.20-08.25: [ICIAM](https://iciam2023.org), Tokyo, Japan
 	- 08.24-08.26: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2023), 青岛
 	- 08.27-09.01: [New Directions in Applied Linear Algebra](http://www.birs.ca/events/2023/5-day-workshops/23w5004), Banff, Canada
@@ -64,6 +64,8 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2024) 01.03-01.06: [JMM](https://www.jointmathematicsmeetings.org//jmm), San Francisco, CA
 	- (2024) 03.05-03.08: [PP24](https://www.siam.org/conferences/cm/conference/pp24), Baltimore, MD
 	- (2024) 05.13-05.17: [LA24](https://www.siam.org/conferences/cm/conference/la24), Paris, France
+	- (2025) 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
+	- (2025) 06.23-06.27: [ILAS](https://ilas2025.tw), 高雄
 * Past Events
    - 01.23-01.27: [SNA](https://www.ugn.cas.cz/event/2023/sna/), Ostrava, Czech Republic
    - 02.26-03.03: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam, The Netherlands
@@ -85,4 +87,4 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 07.15-07.19: [中国数学会计算数学年会](http://www.cscm2021.com), 南京
 	- 08.07-08.10: [ICPP](https://icpp23.sci.utah.edu), Salt Lake City, Utah
 	- 08.07-08.11: [解法器快速算法及应用研讨会](https://www.solver-conference.cn), 西宁
-* Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [What Is](https://nhigham.com/index-of-what-is-articles/)
+* Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [What Is](https://nhigham.com/index-of-what-is-articles/)
