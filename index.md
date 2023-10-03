@@ -49,11 +49,16 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 11.04-11.05: [Conference on Fast Direct Solvers](https://www.math.purdue.edu/~xiaj/FastSolvers2023/), West Lafayette, IN
 	- 11.12-11.17: [SC23](https://sc23.supercomputing.org), Denver, CO
 	- 11.15-11.17: [Computational Mathematics for Data Science](https://cmds.compute.dtu.dk), Copenhagen, Denmark
+	- 12.18-12.21: [HiPC](https://hipc.org), Goa, India
 	- (2024) 01.03-01.06: [JMM](https://www.jointmathematicsmeetings.org//jmm), San Francisco, CA
+	- (2024) 01.25-01.27: [HPC Asia](https://sighpc.ipsj.or.jp/HPCAsia2024/), Nagoya, Japan
 	- (2024) 03.05-03.08: [PP24](https://www.siam.org/conferences/cm/conference/pp24), Baltimore, MD
    - (2024) 03.18-03.22: [GAMM](https://jahrestagung.gamm-ev.de/annual-meeting-2024/), Magdeburg, Germany
    - (2024) 04.14-04.19: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
 	- (2024) 05.13-05.17: [LA24](https://www.siam.org/conferences/cm/conference/la24), Paris, France
+	- (2024) 05.27-05.31: [IPDPS](http://www.ipdps.org), San Francisco, CA
+	- (2024) 06.03-06.05: [PASC](https://pasc24.pasc-conference.org), Zurich, Switzerland
+	- (2024) 06.12-05.14: [ALAMA](https://www.unioviedo.es/alama2024/), Gijon, Spain
 	- (2025) 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
 	- (2025) 06.23-06.27: [ILAS](https://ilas2025.tw), 高雄
 * Past Events
@@ -67,7 +72,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 06.14-06.20: [NUMTA](https://www.numta.org), Calabria, Italy
 	- 06.16-06.19: [SPAA](https://spaa.acm.org), Orlando, Florida
 	- 06.19-06.20: [Sparsedays](https://sparsedays.cerfacs.fr/en/), Saint-Girons, France
-	- 06.26-06.28: [PASC](https://pasc23.pasc-conference.org), Davos, Switzerland
 	- 06.27-06.30: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
 	- 07.03-07.05: [ICCS](https://www.iccs-meeting.org/iccs2023/), Prague, Czech Republic
 	- 07.03-07.06: [NASCA](https://nasca23.univ-littoral.fr), Athens, Greece
@@ -88,4 +92,4 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 09.11-09.15: [MatTriad](https://sparrow.up.poznan.pl/mattriad2023/), Bedlewo, Poland
 	- 09.13-09.15: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Aachen, Germany
 	- 09.17-09.20: [CANA](https://fedcsis.org/sessions/css/cana), Warsaw, Poland
-* Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [What Is](https://nhigham.com/index-of-what-is-articles/)
+* Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [What Is](https://nhigham.com/index-of-what-is-articles/)
