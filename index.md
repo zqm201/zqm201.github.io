@@ -42,8 +42,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 * Journals: [Acta Numerica](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.math.kent.edu), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications/issues), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [SIMAX](https://epubs.siam.org/toc/sjmael/current), [SISC](https://epubs.siam.org/toc/sijcd4/current), [TOMS](https://dl.acm.org/toc/toms/current)
 * Societies: [CSIAM](https://www.csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-	- 09.25-09.27: [The f(A)b workshop](https://indico3.mpi-magdeburg.mpg.de/event/30/), Magdeburg, Germany
-	- 10.05-10.06: [GAMM ANLA](https://www.uni-augsburg.de/en/fakultaet/mntf/math/tagungen/anla2023/), Augsburg, Germany
 	- 10.12-10.15: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 昆明
 	- 10.18-10.19: [Workshop on Sparse Tensor Computations](https://solomonik.cs.illinois.edu/tensor_workshop/), Chicago, IL
 	- 11.04-11.05: [Conference on Fast Direct Solvers](https://www.math.purdue.edu/~xiaj/FastSolvers2023/), West Lafayette, IN
@@ -59,6 +57,8 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2024) 05.27-05.31: [IPDPS](http://www.ipdps.org), San Francisco, CA
 	- (2024) 06.03-06.05: [PASC](https://pasc24.pasc-conference.org), Zurich, Switzerland
 	- (2024) 06.12-06.14: [ALAMA](https://www.unioviedo.es/alama2024/), Gijon, Spain
+	- (2024) 06.17-06.21: [SPAA](https://spaa.acm.org), Nantes, France
+	- (2024) 08.26-08.30: [Euro-Par](https://2024.euro-par.org), Madrid, Spain
 	- (2025) 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
 	- (2025) 06.23-06.27: [ILAS](https://ilas2025.tw), 高雄
 * Past Events
@@ -92,4 +92,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 09.11-09.15: [MatTriad](https://sparrow.up.poznan.pl/mattriad2023/), Bedlewo, Poland
 	- 09.13-09.15: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Aachen, Germany
 	- 09.17-09.20: [CANA](https://fedcsis.org/sessions/css/cana), Warsaw, Poland
+	- 09.25-09.27: [The f(A)b workshop](https://indico3.mpi-magdeburg.mpg.de/event/30/), Magdeburg, Germany
+	- 10.05-10.06: [GAMM ANLA](https://www.uni-augsburg.de/en/fakultaet/mntf/math/tagungen/anla2023/), Augsburg, Germany
 * Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [What Is](https://nhigham.com/index-of-what-is-articles/)
