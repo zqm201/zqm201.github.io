@@ -44,6 +44,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 * Upcoming Events:
 	- 10.12-10.15: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 昆明
 	- 10.18-10.19: [Workshop on Sparse Tensor Computations](https://solomonik.cs.illinois.edu/tensor_workshop/), Chicago, IL
+	- 11.01-11.03: [CSE](https://hpcn.exeter.ac.uk/cse2023/), Exeter, UK
 	- 11.04-11.05: [Conference on Fast Direct Solvers](https://www.math.purdue.edu/~xiaj/FastSolvers2023/), West Lafayette, IN
 	- 11.12-11.17: [SC23](https://sc23.supercomputing.org), Denver, CO
 	- 11.15-11.17: [Computational Mathematics for Data Science](https://cmds.compute.dtu.dk), Copenhagen, Denmark
@@ -70,7 +71,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 06.12-06.16: [ILAS](https://ilas2023.es), Madrid, Spain
 	- 06.12-06.21: [FoCM](https://focm2023.org), Paris, France
 	- 06.14-06.20: [NUMTA](https://www.numta.org), Calabria, Italy
-	- 06.16-06.19: [SPAA](https://spaa.acm.org), Orlando, Florida
 	- 06.19-06.20: [Sparsedays](https://sparsedays.cerfacs.fr/en/), Saint-Girons, France
 	- 06.27-06.30: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
 	- 07.03-07.05: [ICCS](https://www.iccs-meeting.org/iccs2023/), Prague, Czech Republic
