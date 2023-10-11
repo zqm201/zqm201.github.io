@@ -57,8 +57,10 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2024) 05.13-05.17: [LA24](https://www.siam.org/conferences/cm/conference/la24), Paris, France
 	- (2024) 05.27-05.31: [IPDPS](http://www.ipdps.org), San Francisco, CA
 	- (2024) 06.03-06.05: [PASC](https://pasc24.pasc-conference.org), Zurich, Switzerland
+	- (2024) 06.10-06.12: [Preconditioning](https://www.math.emory.edu/~yxi26/Precond24/), Atlanta, GA
 	- (2024) 06.12-06.14: [ALAMA](https://www.unioviedo.es/alama2024/), Gijon, Spain
 	- (2024) 06.17-06.21: [SPAA](https://spaa.acm.org), Nantes, France
+	- (2024) 07.02-07.04: [ICCS](https://www.iccs-meeting.org/iccs2024/), Malaga, Spain
 	- (2024) 08.26-08.30: [Euro-Par](https://2024.euro-par.org), Madrid, Spain
 	- (2025) 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
 	- (2025) 06.23-06.27: [ILAS](https://ilas2025.tw), 高雄
@@ -73,7 +75,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 06.14-06.20: [NUMTA](https://www.numta.org), Calabria, Italy
 	- 06.19-06.20: [Sparsedays](https://sparsedays.cerfacs.fr/en/), Saint-Girons, France
 	- 06.27-06.30: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
-	- 07.03-07.05: [ICCS](https://www.iccs-meeting.org/iccs2023/), Prague, Czech Republic
 	- 07.03-07.06: [NASCA](https://nasca23.univ-littoral.fr), Athens, Greece
 	- 07.07-07.09: [全国大数据与人工智能科学大会](https://csiam-bdai2022.casconf.cn), 贵阳
 	- 07.15-07.19: [中国数学会计算数学年会](http://www.cscm2021.com), 南京
