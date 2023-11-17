@@ -55,6 +55,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2024) 06.03-06.05: [PASC](https://pasc24.pasc-conference.org), Zurich, Switzerland
 	- (2024) 06.04-06.07: [PSCC](https://pscc2024.fr), Paris, France
 	- (2024) 06.10-06.12: [Preconditioning](https://www.math.emory.edu/~yxi26/Precond24/), Atlanta, GA
+	- (2024) 06.10-06.14: [ESCO](https://www.esco2024.femhub.com), Pilsen, Czech Republic
 	- (2024) 06.12-06.14: [ALAMA](https://www.unioviedo.es/alama2024/), Gijon, Spain
 	- (2024) 06.17-06.18: [Sparsedays](https://sparsedays.cerfacs.fr/), Toulouse, France
 	- (2024) 06.17-06.21: [SPAA](https://spaa.acm.org), Nantes, France
