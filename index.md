@@ -42,12 +42,11 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 * Journals: [Acta Numerica](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.math.kent.edu), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications/issues), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [SIMAX](https://epubs.siam.org/toc/sjmael/current), [SISC](https://epubs.siam.org/toc/sijcd4/current), [TOMS](https://dl.acm.org/toc/toms/current)
 * Societies: [CSIAM](http://csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-	- 11.12-11.17: [SC23](https://sc23.supercomputing.org), Denver, CO
-	- 11.15-11.17: [Computational Mathematics for Data Science](https://cmds.compute.dtu.dk), Copenhagen, Denmark
 	- 12.18-12.21: [HiPC](https://hipc.org), Goa, India
 	- (2024) 01.03-01.06: [JMM](https://www.jointmathematicsmeetings.org//jmm), San Francisco, CA
 	- (2024) 01.25-01.27: [HPC Asia](https://sighpc.ipsj.or.jp/HPCAsia2024/), Nagoya, Japan
 	- (2024) 03.05-03.08: [PP24](https://www.siam.org/conferences/cm/conference/pp24), Baltimore, MD
+   - (2024) 03.15-03.20: [ALGORITMY](https://www.math.sk/alg2024/), Bratislava, Slovakia
    - (2024) 03.18-03.22: [GAMM](https://jahrestagung.gamm-ev.de/annual-meeting-2024/), Magdeburg, Germany
    - (2024) 04.14-04.19: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
 	- (2024) 05.13-05.17: [LA24](https://www.siam.org/conferences/cm/conference/la24), Paris, France
@@ -58,6 +57,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2024) 06.10-06.14: [ESCO](https://www.esco2024.femhub.com), Pilsen, Czech Republic
 	- (2024) 06.12-06.14: [ALAMA](https://www.unioviedo.es/alama2024/), Gijon, Spain
 	- (2024) 06.17-06.18: [Sparsedays](https://sparsedays.cerfacs.fr/), Toulouse, France
+	- (2024) 06.17-06.21: [NMSCAA](https://parallel.bas.bg/Conferences/nmscaa24/), Sozopol, Bulgaria
 	- (2024) 06.17-06.21: [SPAA](https://spaa.acm.org), Nantes, France
 	- (2024) 07.02-07.04: [ICCS](https://www.iccs-meeting.org/iccs2024/), Malaga, Spain
 	- (2024) 08.26-08.30: [Euro-Par](https://2024.euro-par.org), Madrid, Spain
@@ -84,7 +84,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 08.14-08.17: [Numerical Analysis in the 21st Century](https://21stcenturyna.github.io), Oxford, England
 	- 08.15-08.18: [ICMAA](https://icmaa2023.scimeeting.cn/), 昆明
 	- 08.15-08.18: [ICNONLA](http://lsec.cc.ac.cn/~icnonla23/), 太原
-	- 08.20-08.25: [ICIAM](https://iciam2023.org), Tokyo, Japan
 	- 08.24-08.26: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2023), 青岛
 	- 08.27-09.01: [New Directions in Applied Linear Algebra](http://www.birs.ca/events/2023/5-day-workshops/23w5004), Banff, Canada
 	- 08.27-08.30: [京津冀计算数学交流会](http://math.sxu.edu.cn/ggtz/f529de2c9f404ff7bf583f572db79a96.htm), 太原
@@ -99,4 +98,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 10.18-10.19: [Workshop on Sparse Tensor Computations](https://solomonik.cs.illinois.edu/tensor_workshop/), Chicago, IL
 	- 11.01-11.03: [CSE](https://hpcn.exeter.ac.uk/cse2023/), Exeter, UK
 	- 11.04-11.05: [Conference on Fast Direct Solvers](https://www.math.purdue.edu/~xiaj/FastSolvers2023/), West Lafayette, IN
+	- 11.12-11.17: [SC23](https://sc23.supercomputing.org), Denver, CO
+	- 11.15-11.17: [Computational Mathematics for Data Science](https://cmds.compute.dtu.dk), Copenhagen, Denmark
 * Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [SuiteSparse](https://sparse.tamu.edu), [What Is](https://nhigham.com/index-of-what-is-articles/)
