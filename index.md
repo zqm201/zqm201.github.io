@@ -61,6 +61,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 07.02-07.04: [ICCS](https://www.iccs-meeting.org/iccs2024/), Malaga, Spain
 	- 08.26-08.30: [Euro-Par](https://2024.euro-par.org), Madrid, Spain
 	- 09.04-09.06: [CST/ECT](https://www.civil-comp.info/diary/), Prague, Czech Republic
+	- 09.08-09.11: [CANA](https://2024.fedcsis.org/thematic/cana), Belgrade, Serbia
 	- 09.08-09.11: [PPAM](https://ppam.edu.pl), Ostrava, Czech Republic
 	- (2025) 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
 	- (2025) 06.23-06.27: [ILAS](https://ilas2025.tw), 高雄
@@ -90,7 +91,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2023) 09.11-09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
 	- (2023) 09.11-09.15: [MatTriad](https://sparrow.up.poznan.pl/mattriad2023/), Bedlewo, Poland
 	- (2023) 09.13-09.15: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Aachen, Germany
-	- (2023) 09.17-09.20: [CANA](https://fedcsis.org/sessions/css/cana), Warsaw, Poland
 	- (2023) 09.25-09.27: [The f(A)b workshop](https://indico3.mpi-magdeburg.mpg.de/event/30/), Magdeburg, Germany
 	- (2023) 10.05-10.06: [GAMM ANLA](https://www.uni-augsburg.de/en/fakultaet/mntf/math/tagungen/anla2023/), Augsburg, Germany
 	- (2023) 10.12-10.15: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 昆明
