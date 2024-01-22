@@ -52,6 +52,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 06.03-06.05: [PASC](https://pasc24.pasc-conference.org), Zurich, Switzerland
 	- 06.04-06.07: [PSCC](https://pscc2024.fr), Paris, France
 	- 06.10-06.12: [Preconditioning](https://www.math.emory.edu/~yxi26/Precond24/), Atlanta, GA
+	- 06.10-06.14: [CMAM](https://ins.uni-bonn.de/group/gedicke/page/cmam-10), Bonn, Germany
 	- 06.10-06.14: [ESCO](https://www.esco2024.femhub.com), Pilsen, Czech Republic
 	- 06.12-06.14: [ALAMA](https://www.unioviedo.es/alama2024/), Gijon, Spain
 	- 06.17-06.18: [Sparsedays](https://sparsedays.cerfacs.fr/), Toulouse, France
@@ -68,7 +69,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2025) 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
 	- (2025) 06.23-06.27: [ILAS](https://ilas2025.tw), 高雄
 	- (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
-* Past Events
+* Past Events:
    - (2023) 01.23-01.27: [SNA](https://www.ugn.cas.cz/event/2023/sna/), Ostrava, Czech Republic
    - (2023) 02.26-03.03: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam, The Netherlands
    - (2023) 03.05-03.10: [Perspectives on Matrix Computations](https://www.birs.ca/events/2023/5-day-workshops/23w5108), Banff, Canada
