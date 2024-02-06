@@ -39,10 +39,9 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 
 -->
 
-* Journals: [Acta Numerica](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.math.kent.edu), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications/issues), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [SIMAX](https://epubs.siam.org/toc/sjmael/current), [SISC](https://epubs.siam.org/toc/sijcd4/current), [TOMS](https://dl.acm.org/toc/toms/current)
+* Journals: [Acta Numer](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.math.kent.edu), [IJHPCA](https://journals.sagepub.com/home/HPC), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications), [Nat Comput Sci](https://www.nature.com/natcomputsci), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [RSTA](https://royalsocietypublishing.org/journal/rsta), [SIMAX](https://epubs.siam.org/journal/sjmael), [SIMODS](https://epubs.siam.org/journal/sjmdaq), [SISC](https://epubs.siam.org/journal/sjoce3), [TOMS](https://dl.acm.org/journal/toms), [TPWRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59)
 * Societies: [CSIAM](http://csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-	- 01.25-01.27: [HPC Asia](https://sighpc.ipsj.or.jp/HPCAsia2024/), Nagoya, Japan
 	- 03.05-03.08: [PP24](https://www.siam.org/conferences/cm/conference/pp24), Baltimore, MD
    - 03.15-03.20: [ALGORITMY](https://www.math.sk/alg2024/), Bratislava, Slovakia
    - 03.18-03.22: [GAMM](https://jahrestagung.gamm-ev.de/annual-meeting-2024/), Magdeburg, Germany
@@ -103,4 +102,5 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2023) 12.18-12.21: [HiPC](https://hipc.org), Goa, India
 	- 01.03-01.06: [JMM](https://www.jointmathematicsmeetings.org//jmm), San Francisco, CA
 	- 01.18-01.19: [Sketching, Mixed Precision, and Associated Algorithms](https://eventi.unibo.it/workshop-sketching-mixedprecision-bologna-2023), Bologna, Italy
-* Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/)
+	- 01.25-01.27: [HPC Asia](https://sighpc.ipsj.or.jp/HPCAsia2024/), Nagoya, Japan
+* Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CUDA](https://docs.nvidia.com/cuda/), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/)
