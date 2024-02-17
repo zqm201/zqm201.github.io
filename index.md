@@ -58,6 +58,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 06.17-06.21: [NMSCAA](https://parallel.bas.bg/Conferences/nmscaa24/), Sozopol, Bulgaria
 	- 06.17-06.21: [SPAA](https://spaa.acm.org), Nantes, France
 	- 07.02-07.04: [ICCS](https://www.iccs-meeting.org/iccs2024/), Malaga, Spain
+	- 07.12-07.14: [全国大数据与人工智能科学大会](https://csiam-bdai2024.casconf.cn), 银川
 	- 08.12-08.15: [ICPP](https://icpp2024.org), Gotland, Sweden
 	- 08.26-08.30: [Euro-Par](https://2024.euro-par.org), Madrid, Spain
 	- 09.04-09.06: [CST/ECT](https://www.civil-comp.info/diary/), Prague, Czech Republic
@@ -79,7 +80,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2023) 06.14-06.20: [NUMTA](https://www.numta.org), Calabria, Italy
 	- (2023) 06.27-06.30: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
 	- (2023) 07.03-07.06: [NASCA](https://nasca23.univ-littoral.fr), Athens, Greece
-	- (2023) 07.07-07.09: [全国大数据与人工智能科学大会](https://csiam-bdai2022.casconf.cn), 贵阳
 	- (2023) 07.15-07.19: [中国数学会计算数学年会](http://www.cscm2021.com), 南京
 	- (2023) 08.07-08.11: [解法器快速算法及应用研讨会](https://www.solver-conference.cn), 西宁
 	- (2023) 08.14-08.17: [Numerical Analysis in the 21st Century](https://21stcenturyna.github.io), Oxford, England
