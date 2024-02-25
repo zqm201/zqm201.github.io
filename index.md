@@ -54,6 +54,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 06.10-06.14: [CMAM](https://ins.uni-bonn.de/group/gedicke/page/cmam-10), Bonn, Germany
 	- 06.10-06.14: [ESCO](https://www.esco2024.femhub.com), Pilsen, Czech Republic
 	- 06.12-06.14: [ALAMA](https://www.unioviedo.es/alama2024/), Gijon, Spain
+	- 06.17-06.18: [Nordic NLA](http://nordic-nla.eu), Odense, Denmark
 	- 06.17-06.18: [Sparsedays](https://sparsedays.cerfacs.fr/), Toulouse, France
 	- 06.17-06.21: [NMSCAA](https://parallel.bas.bg/Conferences/nmscaa24/), Sozopol, Bulgaria
 	- 06.17-06.21: [SPAA](https://spaa.acm.org), Nantes, France
