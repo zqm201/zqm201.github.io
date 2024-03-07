@@ -66,6 +66,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 09.08-09.11: [CANA](https://2024.fedcsis.org/thematic/cana), Belgrade, Serbia
 	- 09.08-09.11: [PPAM](https://ppam.edu.pl), Ostrava, Czech Republic
 	- 09.16-09.20: [Numerical Linear Algebra](https://conferences.cirm-math.fr/3064.html), Marseille, France
+	- 09.23-09.27: [ApplMath](https://applmath.math.pmf.unizg.hr/2024/), Dubrovnik, Croatia
 	- 11.17-11.22: [SC24](https://sc24.supercomputing.org), Atlanta, GA
 	- (2025) 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
 	- (2025) 06.23-06.27: [ILAS](https://ilas2025.tw), 高雄
