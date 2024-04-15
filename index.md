@@ -68,6 +68,8 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 11.17-11.22: [SC24](https://sc24.supercomputing.org), Atlanta, GA
 	- (2025) 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
 	- (2025) 06.23-06.27: [ILAS](https://ilas2025.tw), 高雄
+	- (2025) 06.30-07.02: [MatTriad](https://mattriad2025.pmf.uns.ac.rs), Novi Sad, Serbia
+	- (2025) 07.03-07.05: [Applied Linear Algebra](https://ala2025.pmf.uns.ac.rs), Novi Sad, Serbia
 	- (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
 * Past Events:
    - (2023) 01.23-01.27: [SNA](https://www.ugn.cas.cz/event/2023/sna/), Ostrava, Czech Republic
@@ -89,7 +91,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2023) 08.27-08.30: [京津冀计算数学交流会](http://math.sxu.edu.cn/ggtz/f529de2c9f404ff7bf583f572db79a96.htm), 太原
 	- (2023) 09.04-09.08: [ENUMATH](https://enumath2023.com), Lisbon, Portugal
 	- (2023) 09.11-09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
-	- (2023) 09.11-09.15: [MatTriad](https://sparrow.up.poznan.pl/mattriad2023/), Bedlewo, Poland
 	- (2023) 09.13-09.15: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Aachen, Germany
 	- (2023) 09.25-09.27: [The f(A)b workshop](https://indico3.mpi-magdeburg.mpg.de/event/30/), Magdeburg, Germany
 	- (2023) 10.05-10.06: [GAMM ANLA](https://www.uni-augsburg.de/en/fakultaet/mntf/math/tagungen/anla2023/), Augsburg, Germany
