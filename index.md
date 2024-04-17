@@ -55,6 +55,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 06.17-06.18: [Sparsedays](https://sparsedays.cerfacs.fr/), Toulouse, France
 	- 06.17-06.21: [NMSCAA](https://parallel.bas.bg/Conferences/nmscaa24/), Sozopol, Bulgaria
 	- 06.17-06.21: [SPAA](https://spaa.acm.org), Nantes, France
+	- 06.24-06.26: [AiAi](https://ai2workshop.uniba.it/), Bari, Italy
 	- 07.02-07.04: [ICCS](https://www.iccs-meeting.org/iccs2024/), Malaga, Spain
 	- 07.12-07.14: [全国大数据与人工智能科学大会](https://csiam-bdai2024.casconf.cn), 银川
 	- 07.22-07.24: [解法器快速算法及应用研讨会](https://www.solver-conference.cn), 成都
@@ -65,7 +66,9 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 09.08-09.11: [PPAM](https://ppam.edu.pl), Ostrava, Czech Republic
 	- 09.16-09.20: [Numerical Linear Algebra](https://conferences.cirm-math.fr/3064.html), Marseille, France
 	- 09.23-09.27: [ApplMath](https://applmath.math.pmf.unizg.hr/2024/), Dubrovnik, Croatia
+	- 10.24-10.27: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 南京
 	- 11.17-11.22: [SC24](https://sc24.supercomputing.org), Atlanta, GA
+   - (2025) 03.03-03.07: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse25), Fort Worth, TX
 	- (2025) 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
 	- (2025) 06.23-06.27: [ILAS](https://ilas2025.tw), 高雄
 	- (2025) 06.30-07.02: [MatTriad](https://mattriad2025.pmf.uns.ac.rs), Novi Sad, Serbia
@@ -73,15 +76,12 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
 * Past Events:
    - (2023) 01.23-01.27: [SNA](https://www.ugn.cas.cz/event/2023/sna/), Ostrava, Czech Republic
-   - (2023) 02.26-03.03: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam, The Netherlands
    - (2023) 03.05-03.10: [Perspectives on Matrix Computations](https://www.birs.ca/events/2023/5-day-workshops/23w5108), Banff, Canada
 	- (2023) 06.05-06.09: [CANA](https://bugs.unica.it/cana23/), Cagliari, Italy
 	- (2023) 06.05-06.09: [Large-Scale Scientific Computations](https://parallel.bas.bg/Conferences/SciCom23/), Sozopol, Bulgaria
-	- (2023) 06.12-06.16: [ILAS](https://ilas2023.es), Madrid, Spain
 	- (2023) 06.12-06.21: [FoCM](https://focm2023.org), Paris, France
 	- (2023) 06.14-06.20: [NUMTA](https://www.numta.org), Calabria, Italy
 	- (2023) 06.27-06.30: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
-	- (2023) 07.03-07.06: [NASCA](https://nasca23.univ-littoral.fr), Athens, Greece
 	- (2023) 07.15-07.19: [中国数学会计算数学年会](http://www.cscm2021.com), 南京
 	- (2023) 08.14-08.17: [Numerical Analysis in the 21st Century](https://21stcenturyna.github.io), Oxford, England
 	- (2023) 08.15-08.18: [ICMAA](https://icmaa2023.scimeeting.cn/), 昆明
@@ -94,7 +94,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2023) 09.13-09.15: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Aachen, Germany
 	- (2023) 09.25-09.27: [The f(A)b workshop](https://indico3.mpi-magdeburg.mpg.de/event/30/), Magdeburg, Germany
 	- (2023) 10.05-10.06: [GAMM ANLA](https://www.uni-augsburg.de/en/fakultaet/mntf/math/tagungen/anla2023/), Augsburg, Germany
-	- (2023) 10.12-10.15: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 昆明
 	- (2023) 10.18-10.19: [Workshop on Sparse Tensor Computations](https://solomonik.cs.illinois.edu/tensor_workshop/), Chicago, IL
 	- (2023) 11.01-11.03: [CSE](https://hpcn.exeter.ac.uk/cse2023/), Exeter, UK
 	- (2023) 11.04-11.05: [Conference on Fast Direct Solvers](https://www.math.purdue.edu/~xiaj/FastSolvers2023/), West Lafayette, IN
