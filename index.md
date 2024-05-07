@@ -65,6 +65,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 09.08-09.11: [CANA](https://2024.fedcsis.org/thematic/cana), Belgrade, Serbia
 	- 09.08-09.11: [PPAM](https://ppam.edu.pl), Ostrava, Czech Republic
 	- 09.16-09.20: [Numerical Linear Algebra](https://conferences.cirm-math.fr/3064.html), Marseille, France
+	- 09.23-09.24: [GAMM ANLA](https://www.uni-goettingen.de/en/687071.html), Gottingen, Germany
 	- 09.23-09.27: [ApplMath](https://applmath.math.pmf.unizg.hr/2024/), Dubrovnik, Croatia
 	- 09.28-09.30: [ICAMCS](http://www.icamcs.co), Venice, Italy
 	- 10.24-10.27: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 南京
@@ -95,7 +96,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2023) 09.11-09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
 	- (2023) 09.13-09.15: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Aachen, Germany
 	- (2023) 09.25-09.27: [The f(A)b workshop](https://indico3.mpi-magdeburg.mpg.de/event/30/), Magdeburg, Germany
-	- (2023) 10.05-10.06: [GAMM ANLA](https://www.uni-augsburg.de/en/fakultaet/mntf/math/tagungen/anla2023/), Augsburg, Germany
 	- (2023) 10.18-10.19: [Workshop on Sparse Tensor Computations](https://solomonik.cs.illinois.edu/tensor_workshop/), Chicago, IL
 	- (2023) 11.01-11.03: [CSE](https://hpcn.exeter.ac.uk/cse2023/), Exeter, UK
 	- (2023) 11.04-11.05: [Conference on Fast Direct Solvers](https://www.math.purdue.edu/~xiaj/FastSolvers2023/), West Lafayette, IN
