@@ -59,6 +59,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 07.12-07.14: [全国大数据与人工智能科学大会](https://csiam-bdai2024.casconf.cn), 银川
 	- 07.22-07.24: [解法器快速算法及应用研讨会](https://www.solver-conference.cn), 成都
 	- 08.12-08.15: [ICPP](https://icpp2024.org), Gotland, Sweden
+	- 08.22-08.25: [京津冀计算数学交流会](https://math.imu.edu.cn/info/1032/2102.htm), 呼和浩特
 	- 08.26-08.30: [Euro-Par](https://2024.euro-par.org), Madrid, Spain
 	- 09.04-09.06: [CST/ECT](https://www.civil-comp.info/diary/), Prague, Czech Republic
 	- 09.08-09.11: [CANA](https://2024.fedcsis.org/thematic/cana), Belgrade, Serbia
@@ -90,7 +91,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2023) 08.15-08.18: [ICNONLA](http://lsec.cc.ac.cn/~icnonla23/), 太原
 	- (2023) 08.24-08.26: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2023), 青岛
 	- (2023) 08.27-09.01: [New Directions in Applied Linear Algebra](http://www.birs.ca/events/2023/5-day-workshops/23w5004), Banff, Canada
-	- (2023) 08.27-08.30: [京津冀计算数学交流会](http://math.sxu.edu.cn/ggtz/f529de2c9f404ff7bf583f572db79a96.htm), 太原
 	- (2023) 09.04-09.08: [ENUMATH](https://enumath2023.com), Lisbon, Portugal
 	- (2023) 09.11-09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
 	- (2023) 09.13-09.15: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Aachen, Germany
