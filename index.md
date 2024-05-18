@@ -39,10 +39,9 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 
 -->
 
-* Journals: [Acta Numer](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.math.kent.edu), [FoCM](https://link.springer.com/journal/10208), [IJHPCA](https://journals.sagepub.com/home/HPC), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications), [Nat Comput Sci](https://www.nature.com/natcomputsci), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [RSTA](https://royalsocietypublishing.org/journal/rsta), [SIMAX](https://epubs.siam.org/journal/sjmael), [SIMODS](https://epubs.siam.org/journal/sjmdaq), [SISC](https://epubs.siam.org/journal/sjoce3), [TOMS](https://dl.acm.org/journal/toms), [TPWRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59)
+* Journals: [Acta Numer](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.math.kent.edu), [FoCM](https://link.springer.com/journal/10208), [IJHPCA](https://journals.sagepub.com/home/HPC), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications), [Nat Comput Sci](https://www.nature.com/natcomputsci), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [RSTA](https://royalsocietypublishing.org/journal/rsta), [SIMAX](https://epubs.siam.org/journal/sjmael), [SIMODS](https://epubs.siam.org/journal/sjmdaq), [SISC](https://epubs.siam.org/journal/sjoce3), [TOMS](https://dl.acm.org/journal/toms)
 * Societies: [CSIAM](http://csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-	- 05.13-05.17: [LA24](https://www.siam.org/conferences/cm/conference/la24), Paris, France
 	- 05.27-05.31: [IPDPS](http://www.ipdps.org), San Francisco, CA
 	- 06.03-06.05: [PASC](https://pasc24.pasc-conference.org), Zurich, Switzerland
 	- 06.04-06.07: [PSCC](https://pscc2024.fr), Paris, France
@@ -68,6 +67,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 09.23-09.24: [GAMM ANLA](https://www.uni-goettingen.de/en/687071.html), Gottingen, Germany
 	- 09.23-09.27: [ApplMath](https://applmath.math.pmf.unizg.hr/2024/), Dubrovnik, Croatia
 	- 09.28-09.30: [ICAMCS](http://www.icamcs.co), Venice, Italy
+	- 10.23-10.26: [CCF全国高性能计算学术年会](https://www.ccf.org.cn/Activities/Event_calendar/zw/2024-05-06/821031.shtml), 贵阳
 	- 10.24-10.27: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 南京
 	- 11.17-11.22: [SC24](https://sc24.supercomputing.org), Atlanta, GA
 	- (2025) 01.08-01.11: [JMM](https://www.jointmathematicsmeetings.org), Seattle, WA
@@ -90,7 +90,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2023) 08.14-08.17: [Numerical Analysis in the 21st Century](https://21stcenturyna.github.io), Oxford, England
 	- (2023) 08.15-08.18: [ICMAA](https://icmaa2023.scimeeting.cn/), 昆明
 	- (2023) 08.15-08.18: [ICNONLA](http://lsec.cc.ac.cn/~icnonla23/), 太原
-	- (2023) 08.24-08.26: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2023), 青岛
 	- (2023) 08.27-09.01: [New Directions in Applied Linear Algebra](http://www.birs.ca/events/2023/5-day-workshops/23w5004), Banff, Canada
 	- (2023) 09.04-09.08: [ENUMATH](https://enumath2023.com), Lisbon, Portugal
 	- (2023) 09.11-09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
@@ -106,4 +105,5 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 03.05-03.08: [PP24](https://www.siam.org/conferences/cm/conference/pp24), Baltimore, MD
    - 03.15-03.20: [ALGORITMY](https://www.math.sk/alg2024/), Bratislava, Slovakia
    - 04.14-04.19: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
+	- 05.13-05.17: [LA24](https://www.siam.org/conferences/cm/conference/la24), Paris, France
 * Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CUDA](https://docs.nvidia.com/cuda/), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [SIAM history](http://history.siam.org), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/), [xkcd](https://xkcd.com)
