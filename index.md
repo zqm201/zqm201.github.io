@@ -55,7 +55,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 06.24-06.26: [AiAi](https://ai2workshop.uniba.it/), Bari, Italy
 	- 07.02-07.04: [ICCS](https://www.iccs-meeting.org/iccs2024/), Malaga, Spain
 	- 07.12-07.14: [全国大数据与人工智能科学大会](https://csiam-bdai2024.casconf.cn), 银川
-	- 07.22-07.24: [解法器快速算法及应用研讨会](https://www.solver-conference.cn), 成都
+	- 07.22-07.26: [解法器快速算法及应用研讨会](https://www.solver-conference.cn), 成都
 	- 08.12-08.15: [ICPP](https://icpp2024.org), Gotland, Sweden
 	- 08.22-08.25: [京津冀计算数学交流会](https://math.imu.edu.cn/info/1032/2102.htm), 呼和浩特
 	- 08.26-08.30: [Euro-Par](https://2024.euro-par.org), Madrid, Spain
