@@ -42,18 +42,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 * Journals: [Acta Numer](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.math.kent.edu), [FoCM](https://link.springer.com/journal/10208), [IJHPCA](https://journals.sagepub.com/home/HPC), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications), [Nat Comput Sci](https://www.nature.com/natcomputsci), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [RSTA](https://royalsocietypublishing.org/journal/rsta), [SIMAX](https://epubs.siam.org/journal/sjmael), [SIMODS](https://epubs.siam.org/journal/sjmdaq), [SISC](https://epubs.siam.org/journal/sjoce3), [TOMS](https://dl.acm.org/journal/toms)
 * Societies: [CSIAM](http://csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-	- 06.03-06.05: [PASC](https://pasc24.pasc-conference.org), Zurich, Switzerland
-	- 06.04-06.07: [PSCC](https://pscc2024.fr), Paris, France
-	- 06.10-06.12: [Preconditioning](https://www.math.emory.edu/~yxi26/Precond24/), Atlanta, GA
-	- 06.10-06.14: [CMAM](https://ins.uni-bonn.de/group/gedicke/page/cmam-10), Bonn, Germany
-	- 06.10-06.14: [ESCO](https://www.esco2024.femhub.com), Pilsen, Czech Republic
-	- 06.12-06.14: [ALAMA](https://www.unioviedo.es/alama2024/), Gijon, Spain
-	- 06.17-06.18: [Nordic NLA](http://nordic-nla.eu), Odense, Denmark
-	- 06.17-06.18: [Sparsedays](https://sparsedays.cerfacs.fr/), Toulouse, France
-	- 06.17-06.21: [NMSCAA](https://parallel.bas.bg/Conferences/nmscaa24/), Sozopol, Bulgaria
-	- 06.17-06.21: [SPAA](https://spaa.acm.org), Nantes, France
-	- 06.24-06.26: [AiAi](https://ai2workshop.uniba.it/), Bari, Italy
-	- 07.02-07.04: [ICCS](https://www.iccs-meeting.org/iccs2024/), Malaga, Spain
 	- 07.12-07.14: [全国大数据与人工智能科学大会](https://csiam-bdai2024.casconf.cn), 银川
 	- 07.22-07.26: [解法器快速算法及应用研讨会](https://www.solver-conference.cn), 成都
 	- 08.12-08.15: [ICPP](https://icpp2024.org), Gotland, Sweden
@@ -106,4 +94,16 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
    - 04.14-04.19: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
 	- 05.13-05.17: [LA24](https://www.siam.org/conferences/cm/conference/la24), Paris, France
 	- 05.27-05.31: [IPDPS](http://www.ipdps.org), San Francisco, CA
+	- 06.03-06.05: [PASC](https://pasc24.pasc-conference.org), Zurich, Switzerland
+	- 06.04-06.07: [PSCC](https://pscc2024.fr), Paris, France
+	- 06.10-06.12: [Preconditioning](https://www.math.emory.edu/~yxi26/Precond24/), Atlanta, GA
+	- 06.10-06.14: [CMAM](https://ins.uni-bonn.de/group/gedicke/page/cmam-10), Bonn, Germany
+	- 06.10-06.14: [ESCO](https://www.esco2024.femhub.com), Pilsen, Czech Republic
+	- 06.12-06.14: [ALAMA](https://www.unioviedo.es/alama2024/), Gijon, Spain
+	- 06.17-06.18: [Nordic NLA](http://nordic-nla.eu), Odense, Denmark
+	- 06.17-06.18: [Sparsedays](https://sparsedays.cerfacs.fr/), Toulouse, France
+	- 06.17-06.21: [NMSCAA](https://parallel.bas.bg/Conferences/nmscaa24/), Sozopol, Bulgaria
+	- 06.17-06.21: [SPAA](https://spaa.acm.org), Nantes, France
+	- 06.24-06.26: [AiAi](https://ai2workshop.uniba.it/), Bari, Italy
+	- 07.02-07.04: [ICCS](https://www.iccs-meeting.org/iccs2024/), Malaga, Spain
 * Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CUDA](https://docs.nvidia.com/cuda/), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [SIAM history](http://history.siam.org), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/), [xkcd](https://xkcd.com)
