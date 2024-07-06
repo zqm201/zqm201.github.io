@@ -44,17 +44,12 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 * Upcoming Events:
 	- 07.12-07.14: [全国大数据与人工智能科学大会](https://csiam-bdai2024.casconf.cn), 银川
 	- 07.22-07.26: [解法器快速算法及应用研讨会](https://www.solver-conference.cn), 成都
-	- 08.12-08.15: [ICPP](https://icpp2024.org), Gotland, Sweden
 	- 08.22-08.25: [京津冀计算数学交流会](https://math.imu.edu.cn/info/1032/2102.htm), 呼和浩特
-	- 08.26-08.30: [Euro-Par](https://2024.euro-par.org), Madrid, Spain
 	- 09.04-09.06: [CST/ECT](https://www.civil-comp.info/diary/), Prague, Czech Republic
-	- 09.08-09.11: [CANA](https://2024.fedcsis.org/thematic/cana), Belgrade, Serbia
-	- 09.08-09.11: [PPAM](https://ppam.edu.pl), Ostrava, Czech Republic
 	- 09.16-09.20: [Numerical Linear Algebra](https://conferences.cirm-math.fr/3064.html), Marseille, France
 	- 09.23-09.24: [GAMM ANLA](https://www.uni-goettingen.de/en/687071.html), Gottingen, Germany
 	- 09.23-09.27: [ApplMath](https://applmath.math.pmf.unizg.hr/2024/), Dubrovnik, Croatia
 	- 09.24-09.26: [CCF全国高性能计算学术年会](https://www.ccf.org.cn/Activities/Event_calendar/zw/2024-05-06/821031.shtml), 武汉
-	- 09.28-09.30: [ICAMCS](http://www.icamcs.co), Venice, Italy
 	- 10.24-10.27: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 南京
 	- 11.17-11.22: [SC24](https://sc24.supercomputing.org), Atlanta, GA
 	- (2025) 01.08-01.11: [JMM](https://www.jointmathematicsmeetings.org), Seattle, WA
@@ -64,6 +59,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2025) 06.23-06.27: [ILAS](https://ilas2025.tw), 高雄
 	- (2025) 06.30-07.02: [MatTriad](https://mattriad2025.pmf.uns.ac.rs), Novi Sad, Serbia
 	- (2025) 07.03-07.05: [Applied Linear Algebra](https://ala2025.pmf.uns.ac.rs), Novi Sad, Serbia
+	- (2026) 01.07-01.09: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Aachen, Germany
 	- (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
 * Past Events:
    - (2023) 01.23-01.27: [SNA](https://www.ugn.cas.cz/event/2023/sna/), Ostrava, Czech Republic
@@ -80,30 +76,19 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2023) 08.27-09.01: [New Directions in Applied Linear Algebra](http://www.birs.ca/events/2023/5-day-workshops/23w5004), Banff, Canada
 	- (2023) 09.04-09.08: [ENUMATH](https://enumath2023.com), Lisbon, Portugal
 	- (2023) 09.11-09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
-	- (2023) 09.13-09.15: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Aachen, Germany
 	- (2023) 09.25-09.27: [The f(A)b workshop](https://indico3.mpi-magdeburg.mpg.de/event/30/), Magdeburg, Germany
 	- (2023) 10.18-10.19: [Workshop on Sparse Tensor Computations](https://solomonik.cs.illinois.edu/tensor_workshop/), Chicago, IL
-	- (2023) 11.01-11.03: [CSE](https://hpcn.exeter.ac.uk/cse2023/), Exeter, UK
 	- (2023) 11.04-11.05: [Conference on Fast Direct Solvers](https://www.math.purdue.edu/~xiaj/FastSolvers2023/), West Lafayette, IN
 	- (2023) 11.15-11.17: [Computational Mathematics for Data Science](https://cmds.compute.dtu.dk), Copenhagen, Denmark
-	- (2023) 12.18-12.21: [HiPC](https://hipc.org), Goa, India
-	- 01.18-01.19: [Sketching, Mixed Precision, and Associated Algorithms](https://eventi.unibo.it/workshop-sketching-mixedprecision-bologna-2023), Bologna, Italy
-	- 01.25-01.27: [HPC Asia](https://sighpc.ipsj.or.jp/HPCAsia2024/), Nagoya, Japan
 	- 03.05-03.08: [PP24](https://www.siam.org/conferences/cm/conference/pp24), Baltimore, MD
    - 03.15-03.20: [ALGORITMY](https://www.math.sk/alg2024/), Bratislava, Slovakia
    - 04.14-04.19: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
 	- 05.13-05.17: [LA24](https://www.siam.org/conferences/cm/conference/la24), Paris, France
-	- 05.27-05.31: [IPDPS](http://www.ipdps.org), San Francisco, CA
-	- 06.03-06.05: [PASC](https://pasc24.pasc-conference.org), Zurich, Switzerland
-	- 06.04-06.07: [PSCC](https://pscc2024.fr), Paris, France
 	- 06.10-06.12: [Preconditioning](https://www.math.emory.edu/~yxi26/Precond24/), Atlanta, GA
 	- 06.10-06.14: [CMAM](https://ins.uni-bonn.de/group/gedicke/page/cmam-10), Bonn, Germany
-	- 06.10-06.14: [ESCO](https://www.esco2024.femhub.com), Pilsen, Czech Republic
 	- 06.12-06.14: [ALAMA](https://www.unioviedo.es/alama2024/), Gijon, Spain
 	- 06.17-06.18: [Nordic NLA](http://nordic-nla.eu), Odense, Denmark
 	- 06.17-06.18: [Sparsedays](https://sparsedays.cerfacs.fr/), Toulouse, France
-	- 06.17-06.21: [NMSCAA](https://parallel.bas.bg/Conferences/nmscaa24/), Sozopol, Bulgaria
-	- 06.17-06.21: [SPAA](https://spaa.acm.org), Nantes, France
 	- 06.24-06.26: [AiAi](https://ai2workshop.uniba.it/), Bari, Italy
 	- 07.02-07.04: [ICCS](https://www.iccs-meeting.org/iccs2024/), Malaga, Spain
 * Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CUDA](https://docs.nvidia.com/cuda/), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [SIAM history](http://history.siam.org), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/), [xkcd](https://xkcd.com)
