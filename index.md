@@ -48,14 +48,12 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 09.16-09.20: [Numerical Linear Algebra](https://conferences.cirm-math.fr/3064.html), Marseille, France
 	- 09.23-09.24: [GAMM ANLA](https://www.uni-goettingen.de/en/687071.html), Gottingen, Germany
 	- 09.23-09.27: [ApplMath](https://applmath.math.pmf.unizg.hr/2024/), Dubrovnik, Croatia
-	- 09.24-09.26: [CCF全国高性能计算学术年会](https://www.ccf.org.cn/Activities/Event_calendar/zw/2024-05-06/821031.shtml), 武汉
+	- 09.24-09.26: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2024), 武汉
 	- 10.24-10.27: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 南京
-	- 11.17-11.22: [SC24](https://sc24.supercomputing.org), Atlanta, GA
-	- (2025) 01.08-01.11: [JMM](https://www.jointmathematicsmeetings.org), Seattle, WA
    - (2025) 03.03-03.07: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse25), Fort Worth, TX
    - (2025) 04.07-04.11: [GAMM](https://jahrestagung.gamm-ev.de/annual-meeting-2025/), Poznan, Poland
 	- (2025) 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
-	- (2023) 06.16-06.20: [LSSC](https://parallel.bas.bg/Conferences/SciCom25/), Sozopol, Bulgaria
+	- (2025) 06.16-06.20: [LSSC](https://parallel.bas.bg/Conferences/SciCom25/), Sozopol, Bulgaria
 	- (2025) 06.23-06.27: [ILAS](https://ilas2025.tw), 高雄
 	- (2025) 06.23-06.27: [DDM](https://www.dd29.polimi.it), Milan, Italy
 	- (2025) 06.30-07.02: [MatTriad](https://mattriad2025.pmf.uns.ac.rs), Novi Sad, Serbia
@@ -70,8 +68,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2023) 06.27-06.30: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
 	- (2023) 07.15-07.19: [中国数学会计算数学年会](http://www.cscm2021.com), 南京
 	- (2023) 08.14-08.17: [Numerical Analysis in the 21st Century](https://21stcenturyna.github.io), Oxford, England
-	- (2023) 08.15-08.18: [ICMAA](https://icmaa2023.scimeeting.cn/), 昆明
-	- (2023) 08.15-08.18: [ICNONLA](http://lsec.cc.ac.cn/~icnonla23/), 太原
 	- (2023) 08.27-09.01: [New Directions in Applied Linear Algebra](http://www.birs.ca/events/2023/5-day-workshops/23w5004), Banff, Canada
 	- (2023) 09.04-09.08: [ENUMATH](https://enumath2023.com), Lisbon, Portugal
 	- (2023) 09.11-09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
