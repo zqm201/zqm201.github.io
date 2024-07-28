@@ -39,13 +39,12 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 
 -->
 
-* Journals: [Acta Numer](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.math.kent.edu), [FoCM](https://link.springer.com/journal/10208), [IJHPCA](https://journals.sagepub.com/home/HPC), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications), [Nat Comput Sci](https://www.nature.com/natcomputsci), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [RSTA](https://royalsocietypublishing.org/journal/rsta), [SIMAX](https://epubs.siam.org/journal/sjmael), [SIMODS](https://epubs.siam.org/journal/sjmdaq), [SISC](https://epubs.siam.org/journal/sjoce3), [TOMS](https://dl.acm.org/journal/toms)
+* Journals: [Acta Numer](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.math.kent.edu), [FoCM](https://link.springer.com/journal/10208), [IJHPCA](https://journals.sagepub.com/home/HPC), [IMAJNA](https://academic.oup.com/imajna), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications), [MCOM](https://www.ams.org/cgi-bin/mstrack/accepted_papers/mcom?active=press), [Nat Comput Sci](https://www.nature.com/natcomputsci), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [Numer Math](https://link.springer.com/journal/211), [RSTA](https://royalsocietypublishing.org/journal/rsta), [SIMAX](https://epubs.siam.org/journal/sjmael), [SIMODS](https://epubs.siam.org/journal/sjmdaq), [SISC](https://epubs.siam.org/journal/sjoce3), [TOMS](https://dl.acm.org/journal/toms)
 * Societies: [CSIAM](http://csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-	- 07.22-07.26: [解法器快速算法及应用研讨会](https://www.solver-conference.cn), 成都
 	- 08.22-08.25: [京津冀计算数学交流会](https://math.imu.edu.cn/info/1032/2102.htm), 呼和浩特
 	- 09.04-09.06: [CST/ECT](https://www.civil-comp.info/diary/), Prague, Czech Republic
-	- 09.16-09.20: [Numerical Linear Algebra](https://conferences.cirm-math.fr/3064.html), Marseille, France
+	- 09.16-09.20: [Numerical Linear Algebra](https://www.math.unipd.it/~nlacirm24/), Marseille, France
 	- 09.23-09.24: [GAMM ANLA](https://www.uni-goettingen.de/en/687071.html), Gottingen, Germany
 	- 09.23-09.27: [ApplMath](https://applmath.math.pmf.unizg.hr/2024/), Dubrovnik, Croatia
 	- 09.24-09.26: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2024), 武汉
@@ -86,4 +85,5 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- 06.17-06.18: [Sparsedays](https://sparsedays.cerfacs.fr/), Toulouse, France
 	- 07.08-07.12: [SciML](https://irma.math.unistra.fr/~micheldansac/SciML2024/), Strasbourg, France
 	- 07.12-07.14: [全国大数据与人工智能科学大会](https://csiam-bdai2024.casconf.cn), 银川
-* Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CUDA](https://docs.nvidia.com/cuda/), [EMS TAG SciML](https://ems-tag-sciml.github.io), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [SIAM history](http://history.siam.org), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/), [xkcd](https://xkcd.com)
+	- 07.22-07.26: [解法器快速算法及应用研讨会](https://www.solver-conference.cn), 成都
+* Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CUDA](https://docs.nvidia.com/cuda/), [D2L](http://d2l.ai), [EMS TAG SciML](https://ems-tag-sciml.github.io), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PBDL](https://physicsbaseddeeplearning.org/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [SIAM history](http://history.siam.org), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/), [xkcd](https://xkcd.com)
