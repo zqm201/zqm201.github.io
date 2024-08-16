@@ -55,6 +55,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2025) 06.16-06.20: [LSSC](https://parallel.bas.bg/Conferences/SciCom25/), Sozopol, Bulgaria
 	- (2025) 06.23-06.27: [ILAS](https://ilas2025.tw), 高雄
 	- (2025) 06.23-06.27: [DDM](https://www.dd29.polimi.it), Milan, Italy
+	- (2025) 06.24-06.27: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
 	- (2025) 06.30-07.02: [MatTriad](https://mattriad2025.pmf.uns.ac.rs), Novi Sad, Serbia
 	- (2025) 07.02-07.04: [ICCS](https://www.iccs-meeting.org/), Singapore
 	- (2025) 07.03-07.05: [Applied Linear Algebra](https://ala2025.pmf.uns.ac.rs), Novi Sad, Serbia
@@ -62,19 +63,12 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
 * Past Events:
    - (2023) 01.23-01.27: [SNA](https://www.ugn.cas.cz/event/2023/sna/), Ostrava, Czech Republic
-   - (2023) 03.05-03.10: [Perspectives on Matrix Computations](https://www.birs.ca/events/2023/5-day-workshops/23w5108), Banff, Canada
 	- (2023) 06.12-06.21: [FoCM](https://focm2023.org), Paris, France
 	- (2023) 06.14-06.20: [NUMTA](https://www.numta.org), Calabria, Italy
-	- (2023) 06.27-06.30: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
 	- (2023) 07.15-07.19: [中国数学会计算数学年会](http://www.cscm2021.com), 南京
-	- (2023) 08.14-08.17: [Numerical Analysis in the 21st Century](https://21stcenturyna.github.io), Oxford, England
-	- (2023) 08.27-09.01: [New Directions in Applied Linear Algebra](http://www.birs.ca/events/2023/5-day-workshops/23w5004), Banff, Canada
 	- (2023) 09.04-09.08: [ENUMATH](https://enumath2023.com), Lisbon, Portugal
 	- (2023) 09.11-09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
-	- (2023) 09.25-09.27: [The f(A)b workshop](https://indico3.mpi-magdeburg.mpg.de/event/30/), Magdeburg, Germany
-	- (2023) 10.18-10.19: [Workshop on Sparse Tensor Computations](https://solomonik.cs.illinois.edu/tensor_workshop/), Chicago, IL
 	- (2023) 11.04-11.05: [Conference on Fast Direct Solvers](https://www.math.purdue.edu/~xiaj/FastSolvers2023/), West Lafayette, IN
-	- (2023) 11.15-11.17: [Computational Mathematics for Data Science](https://cmds.compute.dtu.dk), Copenhagen, Denmark
 	- 03.05-03.08: [PP24](https://www.siam.org/conferences/cm/conference/pp24), Baltimore, MD
    - 03.15-03.20: [ALGORITMY](https://www.math.sk/alg2024/), Bratislava, Slovakia
    - 04.14-04.19: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
