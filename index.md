@@ -56,6 +56,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2025) 07.02-07.04: [ICCS](https://www.iccs-meeting.org/), Singapore
 	- (2025) 07.03-07.05: [Applied Linear Algebra](https://ala2025.pmf.uns.ac.rs), Novi Sad, Serbia
 	- (2025) 08.22-08.24: [ISNN](https://conference.cs.cityu.edu.hk/isnn/), 张掖
+	- (2025) 09.01-09.05: [ENUMATH](http://www.enumath2025.eu), Heidelberg, Germany
 	- (2026) 01.07-01.09: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Leuven, Belgium
 	- (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
 * Past Events:
@@ -63,7 +64,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2023) 06.12-06.21: [FoCM](https://focm2023.org), Paris, France
 	- (2023) 06.14-06.20: [NUMTA](https://www.numta.org), Calabria, Italy
 	- (2023) 07.15-07.19: [中国数学会计算数学年会](http://www.cscm2021.com), 南京
-	- (2023) 09.04-09.08: [ENUMATH](https://enumath2023.com), Lisbon, Portugal
 	- (2023) 09.11-09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
 	- 03.05-03.08: [PP24](https://www.siam.org/conferences/cm/conference/pp24), Baltimore, MD
    - 03.15-03.20: [ALGORITMY](https://www.math.sk/alg2024/), Bratislava, Slovakia
