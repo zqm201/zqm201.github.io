@@ -58,10 +58,10 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2025) 08.22-08.24: [ISNN](https://conference.cs.cityu.edu.hk/isnn/), 张掖
 	- (2025) 09.01-09.05: [ENUMATH](http://www.enumath2025.eu), Heidelberg, Germany
 	- (2026) 01.07-01.09: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Leuven, Belgium
+	- (2026) 07.08-07.18: [FoCM](https://focm2026.org), Vienna, Austria
 	- (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
 * Past Events:
    - (2023) 01.23-01.27: [SNA](https://www.ugn.cas.cz/event/2023/sna/), Ostrava, Czech Republic
-	- (2023) 06.12-06.21: [FoCM](https://focm2023.org), Paris, France
 	- (2023) 06.14-06.20: [NUMTA](https://www.numta.org), Calabria, Italy
 	- (2023) 07.15-07.19: [中国数学会计算数学年会](http://www.cscm2021.com), 南京
 	- (2023) 09.11-09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
