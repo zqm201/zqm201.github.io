@@ -55,6 +55,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2025) 06.30-07.02: [MatTriad](https://mattriad2025.pmf.uns.ac.rs), Novi Sad, Serbia
 	- (2025) 07.02-07.04: [ICCS](https://www.iccs-meeting.org/), Singapore
 	- (2025) 07.03-07.05: [Applied Linear Algebra](https://ala2025.pmf.uns.ac.rs), Novi Sad, Serbia
+	- (2025) 07.19-07.23: [NASC](https://lsec.cc.ac.cn/~NASCNAG/NASC_pages/Conf_pages/NASC25_pages/), 西安
 	- (2025) 08.22-08.24: [ISNN](https://conference.cs.cityu.edu.hk/isnn/), 张掖
 	- (2025) 09.01-09.05: [ENUMATH](http://www.enumath2025.eu), Heidelberg, Germany
 	- (2026) 01.07-01.09: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Leuven, Belgium
