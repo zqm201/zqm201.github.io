@@ -42,6 +42,7 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 * Journals: [Acta Numer](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.math.kent.edu), [FoCM](https://link.springer.com/journal/10208), [IJHPCA](https://journals.sagepub.com/home/HPC), [IMAJNA](https://academic.oup.com/imajna), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications), [MCOM](https://www.ams.org/cgi-bin/mstrack/accepted_papers/mcom?active=press), [Nat Comput Sci](https://www.nature.com/natcomputsci), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [Numer Math](https://link.springer.com/journal/211), [RSTA](https://royalsocietypublishing.org/journal/rsta), [SIMAX](https://epubs.siam.org/journal/sjmael), [SIMODS](https://epubs.siam.org/journal/sjmdaq), [SISC](https://epubs.siam.org/journal/sjoce3), [TOMS](https://dl.acm.org/journal/toms)
 * Societies: [CSIAM](http://csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
+   - (2025) 01.27-01.31: [SNA](https://sna.vsb.cz/), Ostrava, Czech Republic
 	- (2025) 02.03-02.05: [IMG](https://www.kaust.edu.sa/html/img25/), Thuwal, Saudi Arabia
 	- (2025) 03.03-03.07: [SCML](https://scml.jp/), Kyoto, Japan
 	- (2025) 03.03-03.07: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse25), Fort Worth, TX
@@ -63,7 +64,6 @@ I'm an associate professor in the [School of Science](https://science.bupt.edu.c
 	- (2026) 07.08-07.18: [FoCM](https://focm2026.org), Vienna, Austria
 	- (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
 * Past Events:
-   - (2023) 01.23-01.27: [SNA](https://www.ugn.cas.cz/event/2023/sna/), Ostrava, Czech Republic
 	- (2023) 06.14-06.20: [NUMTA](https://www.numta.org), Calabria, Italy
 	- (2023) 07.15-07.19: [中国数学会计算数学年会](http://www.cscm2021.com), 南京
 	- (2023) 09.11-09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
