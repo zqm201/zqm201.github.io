@@ -25,6 +25,7 @@
 	- 09.01-09.05: [ENUMATH](http://www.enumath2025.eu), Heidelberg, Germany
 	- 10.08-10.10: [Approximate Computing in NLA](https://approxcomputing.sciencesconf.org/), Heidelberg, Germany
 	- (2026) 01.07-01.09: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Leuven, Belgium
+	- (2026) 03.02-03.06: [PP26](https://www.siam.org/conferences/cm/conference/pp26), Berlin, Germany
 	- (2026) 05.27-05.29: [Preconditioning](https://www.math.emory.edu/~yxi26/Precond24/), Edinburgh, UK
 	- (2026) 07.08-07.18: [FoCM](https://focm2026.org), Vienna, Austria
 	- (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
@@ -32,7 +33,6 @@
 	- (2023) 06.14-06.20: [NUMTA](https://www.numta.org), Calabria, Italy
 	- (2023) 07.15-07.19: [中国数学会计算数学年会](http://www.cscm2021.com), 南京
 	- (2023) 09.11-09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
-	- (2024) 03.05-03.08: [PP24](https://www.siam.org/conferences/cm/conference/pp24), Baltimore, MD
    - (2024) 03.15-03.20: [ALGORITMY](https://www.math.sk/alg2024/), Bratislava, Slovakia
 	- (2024) 05.13-05.17: [LA24](https://www.siam.org/conferences/cm/conference/la24), Paris, France
 	- (2024) 06.12-06.14: [ALAMA](https://www.unioviedo.es/alama2024/), Gijon, Spain
