@@ -5,6 +5,7 @@
 	- 03.03-03.07: [SCML](https://scml.jp/), Kyoto, Japan
 	- 03.03-03.07: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse25), Fort Worth, TX
 	- 03.24-03.26: [EMS TAG SciML](https://www.mate.polimi.it/events/EMS-TAG-SciML-25/), Milan, Italy
+	- 03.28-03.20: [京津冀数学会联合学术会](http://app.hebtu.edu.cn/2025jjjms/), 天津
    - 04.07-04.11: [GAMM](https://jahrestagung.gamm-ev.de/annual-meeting-2025/), Poznan, Poland
    - 04.13-04.17: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
    - 06.02-06.03: [Sparsedays](https://sparsedays.cerfacs.fr/), Toulouse, France
