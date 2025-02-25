@@ -19,6 +19,7 @@
 	- 06.30-07.02: [MatTriad](https://mattriad2025.pmf.uns.ac.rs), Novi Sad, Serbia
 	- 07.02-07.04: [ICCS](https://www.iccs-meeting.org/), Singapore
 	- 07.03-07.05: [Applied Linear Algebra](https://ala2025.pmf.uns.ac.rs), Novi Sad, Serbia
+	- 07.18-07.20: [全国大数据与人工智能科学大会](https://csiam-bdai2025.casconf.cn), 桂林
 	- 07.19-07.23: [NASC](https://lsec.cc.ac.cn/~NASCNAG/NASC_pages/Conf_pages/NASC25_pages/), 西安
 	- 07.20-07.23: [HPDC](https://hpdc.sci.utah.edu/), Notre Dame, IN
 	- 07.28-08.01: [SPAA](https://spaa.acm.org/), Portland, OR
@@ -39,7 +40,6 @@
 	- (2024) 06.12-06.14: [ALAMA](https://www.unioviedo.es/alama2024/), Gijon, Spain
 	- (2024) 06.17-06.18: [Nordic NLA](http://nordic-nla.eu), Odense, Denmark
 	- (2024) 07.08-07.12: [SciML](https://irma.math.unistra.fr/~micheldansac/SciML2024/), Strasbourg, France
-	- (2024) 07.12-07.14: [全国大数据与人工智能科学大会](https://csiam-bdai2024.casconf.cn), 银川
 	- (2024) 07.22-07.26: [解法器快速算法及应用研讨会](https://www.solver-conference.cn), 成都
 	- (2024) 08.22-08.25: [京津冀计算数学交流会](https://math.imu.edu.cn/info/1032/2102.htm), 呼和浩特
 	- (2024) 09.04-09.06: [CST/ECT](https://www.civil-comp.info/diary/), Prague, Czech Republic
