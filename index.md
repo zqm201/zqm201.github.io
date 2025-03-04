@@ -8,6 +8,7 @@
 	- 03.28-03.20: [京津冀数学会联合学术会](http://app.hebtu.edu.cn/2025jjjms/), 天津
    - 04.07-04.11: [GAMM](https://jahrestagung.gamm-ev.de/annual-meeting-2025/), Poznan, Poland
    - 04.13-04.17: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
+   - 04.23-04.24: [CAS-ANLA](https://bvieuble.me/casanla/), 北京
    - 06.02-06.03: [Sparsedays](https://sparsedays.cerfacs.fr/), Toulouse, France
    - 06.03-06.07: [IPDPS](https://www.ipdps.org/), Milan, Italy
 	- 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
