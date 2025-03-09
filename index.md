@@ -1,9 +1,6 @@
 * Journals: [Acta Numer](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.math.kent.edu), [FoCM](https://link.springer.com/journal/10208), [IJHPCA](https://journals.sagepub.com/home/HPC), [IMAJNA](https://academic.oup.com/imajna), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications), [MCOM](https://www.ams.org/cgi-bin/mstrack/accepted_papers/mcom?active=press), [Nat Comput Sci](https://www.nature.com/natcomputsci), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [Numer Math](https://link.springer.com/journal/211), [RSTA](https://royalsocietypublishing.org/journal/rsta), [SIMAX](https://epubs.siam.org/journal/sjmael), [SIMODS](https://epubs.siam.org/journal/sjmdaq), [SISC](https://epubs.siam.org/journal/sjoce3), [TOMS](https://dl.acm.org/journal/toms)
 * Societies: [CSIAM](http://csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-	- 03.01-03.05: [PPoPP](https://ppopp25.sigplan.org/), Las Vegas, NV
-	- 03.03-03.07: [SCML](https://scml.jp/), Kyoto, Japan
-	- 03.03-03.07: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse25), Fort Worth, TX
 	- 03.24-03.26: [EMS TAG SciML](https://www.mate.polimi.it/events/EMS-TAG-SciML-25/), Milan, Italy
 	- 03.28-03.20: [京津冀数学会联合学术会](http://app.hebtu.edu.cn/2025jjjms/), 天津
    - 04.07-04.11: [GAMM](https://jahrestagung.gamm-ev.de/annual-meeting-2025/), Poznan, Poland
@@ -24,6 +21,7 @@
 	- 07.19-07.23: [NASC](https://lsec.cc.ac.cn/~NASCNAG/NASC_pages/Conf_pages/NASC25_pages/), 西安
 	- 07.20-07.23: [HPDC](https://hpdc.sci.utah.edu/), Notre Dame, IN
 	- 07.28-08.01: [SPAA](https://spaa.acm.org/), Portland, OR
+	- 08.14-08.16: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2025), 鄂尔多斯
 	- 08.22-08.24: [ISNN](https://conference.cs.cityu.edu.hk/isnn/), 张掖
 	- 08.31-09.05: [INdAM](https://events.dm.unipi.it/event/307/), Cortona, Italy
 	- 09.01-09.05: [ENUMATH](http://www.enumath2025.eu), Heidelberg, Germany
@@ -47,6 +45,8 @@
 	- (2024) 07.22-07.26: [解法器快速算法及应用研讨会](https://www.solver-conference.cn), 成都
 	- (2024) 08.22-08.25: [京津冀计算数学交流会](https://math.imu.edu.cn/info/1032/2102.htm), 呼和浩特
 	- (2024) 09.04-09.06: [CST/ECT](https://www.civil-comp.info/diary/), Prague, Czech Republic
-	- (2024) 09.24-09.26: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2024), 武汉
 	- (2024) 10.24-10.27: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 南京
+	- 03.01-03.05: [PPoPP](https://ppopp25.sigplan.org/), Las Vegas, NV
+	- 03.03-03.07: [SCML](https://scml.jp/), Kyoto, Japan
+	- 03.03-03.07: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse25), Fort Worth, TX
 * Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CUDA](https://docs.nvidia.com/cuda/), [D2L](http://d2l.ai), [EMS TAG SciML](https://ems-tag-sciml.github.io), [HQI](https://www.hqi.fr/en/), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PBDL](https://physicsbaseddeeplearning.org/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [SIAM history](http://history.siam.org), [Sparsitute](https://sparsitute.lbl.gov/), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/), [xkcd](https://xkcd.com)
