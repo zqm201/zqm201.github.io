@@ -25,7 +25,7 @@
 	- 08.22-08.24: [ISNN](https://conference.cs.cityu.edu.hk/isnn/), 张掖
 	- 08.31-09.05: [INdAM](https://events.dm.unipi.it/event/307/), Cortona, Italy
 	- 09.01-09.05: [ENUMATH](http://www.enumath2025.eu), Heidelberg, Germany
-	- 10.08-10.10: [Approximate Computing in NLA](https://approxcomputing.sciencesconf.org/), Heidelberg, Germany
+	- 10.08-10.10: [Approximate Computing in NLA](https://approxcomputing.sciencesconf.org/), Paris, France
 	- 10.23-10.24: [GAMM ANLA](https://eventi.unibo.it/gamm-anla-2025), Bologna, Italy
 	- 11.16-11.21: [SC](https://sc25.supercomputing.org), St. Louis, MO
 	- (2026) 01.07-01.09: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Leuven, Belgium
