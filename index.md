@@ -29,6 +29,7 @@
 	- 10.23-10.24: [GAMM ANLA](https://eventi.unibo.it/gamm-anla-2025), Bologna, Italy
 	- 11.16-11.21: [SC](https://sc25.supercomputing.org), St. Louis, MO
 	- (2026) 01.07-01.09: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Leuven, Belgium
+	- (2026) 02.15-02.20: [Dagstuhl Seminar: Mixed Precision](https://www.dagstuhl.de/26081), Wadern, Germany
 	- (2026) 03.02-03.06: [PP26](https://www.siam.org/conferences/cm/conference/pp26), Berlin, Germany
 	- (2026) 05.27-05.29: [Preconditioning](https://www.math.emory.edu/~yxi26/Precond24/), Edinburgh, UK
 	- (2026) 07.08-07.18: [FoCM](https://focm2026.org), Vienna, Austria
