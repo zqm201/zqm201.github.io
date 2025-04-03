@@ -20,6 +20,7 @@
 	- 07.20-07.23: [HPDC](https://hpdc.sci.utah.edu/), Notre Dame, IN
 	- 07.28-08.01: [SPAA](https://spaa.acm.org/), Portland, OR
 	- 08.14-08.16: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2025), 鄂尔多斯
+	- 08.17-08.21: [中国数学会计算数学年会](https://my.31huiyi.com/site/pages/index/index?pageId=dcfa0000-b665-5ae1-afd9-08dd553be668), 长沙
 	- 08.22-08.24: [ISNN](https://conference.cs.cityu.edu.hk/isnn/), 张掖
 	- 08.31-09.05: [INdAM](https://events.dm.unipi.it/event/307/), Cortona, Italy
 	- 09.01-09.05: [ENUMATH](http://www.enumath2025.eu), Heidelberg, Germany
@@ -34,7 +35,6 @@
 	- (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
 * Past Events:
 	- (2023) 06.14-06.20: [NUMTA](https://www.numta.org), Calabria, Italy
-	- (2023) 07.15-07.19: [中国数学会计算数学年会](http://www.cscm2021.com), 南京
 	- (2023) 09.11-09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
    - (2024) 03.15-03.20: [ALGORITMY](https://www.math.sk/alg2024/), Bratislava, Slovakia
 	- (2024) 05.13-05.17: [LA24](https://www.siam.org/conferences/cm/conference/la24), Paris, France
