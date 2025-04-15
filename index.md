@@ -26,6 +26,7 @@
 	- 09.01-09.05: [ENUMATH](http://www.enumath2025.eu), Heidelberg, Germany
 	- 10.08-10.10: [Approximate Computing in NLA](https://approxcomputing.sciencesconf.org/), Paris, France
 	- 10.23-10.24: [GAMM ANLA](https://eventi.unibo.it/gamm-anla-2025), Bologna, Italy
+	- 10.23-10.26: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 长沙
 	- 11.16-11.21: [SC](https://sc25.supercomputing.org), St. Louis, MO
 	- (2026) 01.07-01.09: [METT](https://www.igpm.rwth-aachen.de/workshop/mett2023), Leuven, Belgium
 	- (2026) 02.15-02.20: [Dagstuhl Seminar: Mixed Precision](https://www.dagstuhl.de/26081), Wadern, Germany
@@ -43,7 +44,6 @@
 	- (2024) 07.22-07.26: [解法器快速算法及应用研讨会](https://www.solver-conference.cn), 成都
 	- (2024) 08.22-08.25: [京津冀计算数学交流会](https://math.imu.edu.cn/info/1032/2102.htm), 呼和浩特
 	- (2024) 09.04-09.06: [CST/ECT](https://www.civil-comp.info/diary/), Prague, Czech Republic
-	- (2024) 10.24-10.27: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 南京
 	- 03.01-03.05: [PPoPP](https://ppopp25.sigplan.org/), Las Vegas, NV
 	- 03.03-03.07: [SCML](https://scml.jp/), Kyoto, Japan
 	- 03.03-03.07: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse25), Fort Worth, TX
