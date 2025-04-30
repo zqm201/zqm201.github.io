@@ -17,6 +17,7 @@
 	- 07.19-07.23: [NASC](https://lsec.cc.ac.cn/~NASCNAG/NASC_pages/Conf_pages/NASC25_pages/), 西安
 	- 07.20-07.23: [HPDC](https://hpdc.sci.utah.edu/), Notre Dame, IN
 	- 07.28-08.01: [SPAA](https://spaa.acm.org/), Portland, OR
+	- 08.02-08.06: [解法器快速算法及应用研讨会](https://solver-conference.cn), 青岛
 	- 08.04-08.07: [数值优化与数值代数国际会议](https://lsec.cc.ac.cn/~icnonla25/), 哈尔滨
 	- 08.14-08.16: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2025), 鄂尔多斯
 	- 08.17-08.21: [中国数学会计算数学年会](https://my.31huiyi.com/site/pages/index/index?pageId=dcfa0000-b665-5ae1-afd9-08dd553be668), 长沙
@@ -41,7 +42,6 @@
 	- (2024) 05.13-05.17: [LA24](https://www.siam.org/conferences/cm/conference/la24), Paris, France
 	- (2024) 06.12-06.14: [ALAMA](https://www.unioviedo.es/alama2024/), Gijon, Spain
 	- (2024) 07.08-07.12: [SciML](https://irma.math.unistra.fr/~micheldansac/SciML2024/), Strasbourg, France
-	- (2024) 07.22-07.26: [解法器快速算法及应用研讨会](https://www.solver-conference.cn), 成都
 	- (2024) 08.22-08.25: [京津冀计算数学交流会](https://math.imu.edu.cn/info/1032/2102.htm), 呼和浩特
 	- (2024) 09.04-09.06: [CST/ECT](https://www.civil-comp.info/diary/), Prague, Czech Republic
 	- 03.01-03.05: [PPoPP](https://ppopp25.sigplan.org/), Las Vegas, NV
