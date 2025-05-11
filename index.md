@@ -1,7 +1,6 @@
 * Journals: [Acta Numer](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.math.kent.edu), [FoCM](https://link.springer.com/journal/10208), [IJHPCA](https://journals.sagepub.com/home/HPC), [IMAJNA](https://academic.oup.com/imajna), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications), [MCOM](https://www.ams.org/cgi-bin/mstrack/accepted_papers/mcom?active=press), [Nat Comput Sci](https://www.nature.com/natcomputsci), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [Numer Math](https://link.springer.com/journal/211), [RSTA](https://royalsocietypublishing.org/journal/rsta), [SIMAX](https://epubs.siam.org/journal/sjmael), [SIMODS](https://epubs.siam.org/journal/sjmdaq), [SISC](https://epubs.siam.org/journal/sjoce3), [TOMS](https://dl.acm.org/journal/toms)
 * Societies: [CSIAM](http://csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-   - 04.23-04.24: [CAS-ANLA](https://bvieuble.me/casanla/), 北京
    - 06.02-06.03: [Sparsedays](https://sparsedays.cerfacs.fr/), Toulouse, France
    - 06.03-06.07: [IPDPS](https://www.ipdps.org/), Milan, Italy
 	- 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
@@ -50,4 +49,5 @@
 	- 03.24-03.26: [EMS TAG SciML](https://www.mate.polimi.it/events/EMS-TAG-SciML-25/), Milan, Italy
    - 04.07-04.11: [GAMM](https://jahrestagung.gamm-ev.de/annual-meeting-2025/), Poznan, Poland
    - 04.13-04.17: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
+   - 04.23-04.24: [CAS-ANLA](https://bvieuble.me/casanla/), 北京
 * Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CUDA](https://docs.nvidia.com/cuda/), [D2L](http://d2l.ai), [EMS TAG SciML](https://ems-tag-sciml.github.io), [HQI](https://www.hqi.fr/en/), [ICMSEC](https://www.cc.ac.cn/), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PBDL](https://physicsbaseddeeplearning.org/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [SIAM history](http://history.siam.org), [Sparsitute](https://sparsitute.lbl.gov/), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/), [xkcd](https://xkcd.com)
