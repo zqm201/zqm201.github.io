@@ -25,7 +25,7 @@
    - (2026) 05.27-05.29: [Preconditioning](https://www.math.emory.edu/~yxi26/Precond24/), Edinburgh, UK
    - (2026) 06.02-06.05: [OP26](https://www.siam.org/conferences-events/siam-conferences/op26/), Edinburgh, UK
    - (2026) 06.29-07.03: [SciCADE](https://www.scicade.org/), Edinburgh, UK
-   - (2026) 07.08-07.18: [FoCM](https://focm2026.org), Vienna, Austria
+   - (2026) 07.08-07.18: [FoCM](https://focm2026.univie.ac.at/), Vienna, Austria
    - (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
 * Past Events:
    - (2023) 06.14-06.20: [NUMTA](https://www.numta.org), Calabria, Italy
