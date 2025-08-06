@@ -1,4 +1,4 @@
-* Journals: [ACM OpenTOC](https://www.sighpc.org/events/acm-libraryopentoc), [Acta Numer](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.math.kent.edu), [FoCM](https://link.springer.com/journal/10208), [IJHPCA](https://journals.sagepub.com/home/HPC), [IMAJNA](https://academic.oup.com/imajna), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications), [MCOM](https://www.ams.org/cgi-bin/mstrack/accepted_papers/mcom?active=press), [Nat Comput Sci](https://www.nature.com/natcomputsci), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [Numer Math](https://link.springer.com/journal/211), [RSTA](https://royalsocietypublishing.org/journal/rsta), [SIMAX](https://epubs.siam.org/journal/sjmael), [SIMODS](https://epubs.siam.org/journal/sjmdaq), [SISC](https://epubs.siam.org/journal/sjoce3), [TOMS](https://dl.acm.org/journal/toms)
+* Journals: [ACM OpenTOC](https://www.sighpc.org/events/acm-libraryopentoc), [Acta Numer](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://www.global-sci.org/csiam-am), [ETNA](https://etna.ricam.oeaw.ac.at/), [FoCM](https://link.springer.com/journal/10208), [IJHPCA](https://journals.sagepub.com/home/HPC), [IMAJNA](https://academic.oup.com/imajna), [JCM](https://www.global-sci.org/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications), [MCOM](https://www.ams.org/cgi-bin/mstrack/accepted_papers/mcom?active=press), [Nat Comput Sci](https://www.nature.com/natcomputsci), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [Numer Math](https://link.springer.com/journal/211), [RSTA](https://royalsocietypublishing.org/journal/rsta), [SIMAX](https://epubs.siam.org/journal/sjmael), [SIMODS](https://epubs.siam.org/journal/sjmdaq), [SISC](https://epubs.siam.org/journal/sjoce3), [TOMS](https://dl.acm.org/journal/toms)
 * Societies: [CSIAM](http://csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
    - 08.02-08.06: [解法器快速算法及应用研讨会](https://solver-conference.cn), 青岛
@@ -17,7 +17,7 @@
    - 11.16-11.21: [SC](https://sc25.supercomputing.org), St. Louis, MO
    - (2026) 01.07-01.09: [METT](https://homes.esat.kuleuven.be/~mettxi/), Leuven, Belgium
    - (2026) 02.15-02.20: [Dagstuhl Seminar: Mixed Precision](https://www.dagstuhl.de/26081), Wadern, Germany
-   - (2026) 03.02-03.06: [PP26](https://www.siam.org/conferences/cm/conference/pp26), Berlin, Germany
+   - (2026) 03.02-03.06: [PP26](https://www.siam.org/conferences-events/siam-conferences/pp26/), Berlin, Germany
    - (2026) 05.27-05.29: [Preconditioning](https://www.math.emory.edu/~yxi26/Precond24/), Edinburgh, UK
    - (2026) 06.02-06.05: [OP26](https://www.siam.org/conferences-events/siam-conferences/op26/), Edinburgh, UK
    - (2026) 06.21-06.27: [NUMTA](https://www.numta.org), Calabria, Italy
