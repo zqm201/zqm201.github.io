@@ -10,7 +10,7 @@
    - (2026) 01.07-01.09: [METT](https://homes.esat.kuleuven.be/~mettxi/), Leuven, Belgium
    - (2026) 02.15-02.20: [Dagstuhl Seminar: Mixed Precision](https://www.dagstuhl.de/26081), Wadern, Germany
    - (2026) 03.02-03.06: [PP26](https://www.siam.org/conferences-events/siam-conferences/pp26/), Berlin, Germany
-   - (2026) 05.27-05.29: [Preconditioning](https://www.math.emory.edu/~yxi26/Precond24/), Edinburgh, UK
+   - (2026) 05.27-05.29: [Preconditioning](https://icms.ac.uk/activities/workshop/precond26/), Edinburgh, UK
    - (2026) 06.02-06.05: [OP26](https://www.siam.org/conferences-events/siam-conferences/op26/), Edinburgh, UK
    - (2026) 06.21-06.27: [NUMTA](https://www.numta.org), Calabria, Italy
    - (2026) 06.29-07.03: [SciCADE](https://www.scicade.org/), Edinburgh, UK
