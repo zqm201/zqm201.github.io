@@ -6,12 +6,18 @@
    - 10.23-10.26: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 长沙
    - 11.16-11.21: [SC](https://sc25.supercomputing.org), St. Louis, MO
    - (2026) 01.07-01.09: [METT](https://homes.esat.kuleuven.be/~mettxi/), Leuven, Belgium
+   - (2026) 01.31-02.04: [PPoPP](https://ppopp26.sigplan.org/), Sydney, Australia
    - (2026) 02.15-02.20: [Dagstuhl Seminar: Mixed Precision](https://www.dagstuhl.de/26081), Wadern, Germany
    - (2026) 03.02-03.06: [PP26](https://www.siam.org/conferences-events/siam-conferences/pp26/), Berlin, Germany
+   - (2026) 03.10-03.12: [EMS TAG SciML](https://cds.uni-koeln.de/en/workshops/ems-tag-sciml/save-the-date), Cologne, Germany
+   - (2026) 03.16-03.20: [GAMM](https://jahrestagung.gamm.org/annual-meeting-2026/), Stuttgart, Germany
+   - (2026) 05.25-05.29: [IPDPS](https://www.ipdps.org/), New Orleans, LA
    - (2026) 05.27-05.29: [Preconditioning](https://icms.ac.uk/activities/workshop/precond26/), Edinburgh, UK
    - (2026) 06.02-06.05: [OP26](https://www.siam.org/conferences-events/siam-conferences/op26/), Edinburgh, UK
    - (2026) 06.21-06.27: [NUMTA](https://www.numta.org), Calabria, Italy
+   - (2026) 06.29-07.01: [ICCS](https://www.iccs-meeting.org/), Hamburg, Germany
    - (2026) 06.29-07.03: [SciCADE](https://www.scicade.org/), Edinburgh, UK
+   - (2026) 06.30-07.03: [Sparsedays](https://sparsedays.cerfacs.fr/), Saint-Girons, France
    - (2026) 07.08-07.18: [FoCM](https://focm2026.univie.ac.at/), Vienna, Austria
    - (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
 * Past Events:
@@ -21,15 +27,10 @@
    - (2024) 06.12-06.14: [ALAMA](https://www.unioviedo.es/alama2024/), Gijon, Spain
    - (2024) 07.08-07.12: [SciML](https://irma.math.unistra.fr/~micheldansac/SciML2024/), Strasbourg, France
    - (2024) 09.04-09.06: [CST/ECT](https://www.civil-comp.info/diary/), Prague, Czech Republic
-   - 03.01-03.05: [PPoPP](https://ppopp25.sigplan.org/), Las Vegas, NV
    - 03.03-03.07: [SCML](https://scml.jp/), Kyoto, Japan
    - 03.03-03.07: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse25), Fort Worth, TX
-   - 03.24-03.26: [EMS TAG SciML](https://www.mate.polimi.it/events/EMS-TAG-SciML-25/), Milan, Italy
-   - 04.07-04.11: [GAMM](https://jahrestagung.gamm-ev.de/annual-meeting-2025/), Poznan, Poland
    - 04.13-04.17: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
    - 04.23-04.24: [CAS-ANLA](https://bvieuble.me/casanla/), 北京
-   - 06.02-06.03: [Sparsedays](https://sparsedays.cerfacs.fr/), Toulouse, France
-   - 06.03-06.07: [IPDPS](https://www.ipdps.org/), Milan, Italy
    - 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
    - 06.16-06.18: [PASC](https://pasc25.pasc-conference.org/), Brugg, Switzerland
    - 06.16-06.20: [LSSC](https://parallel.bas.bg/Conferences/SciCom25/), Sozopol, Bulgaria
@@ -37,7 +38,6 @@
    - 06.23-06.27: [DDM](https://www.dd29.polimi.it), Milan, Italy
    - 06.24-06.27: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
    - 06.30-07.02: [MatTriad](https://mattriad2025.pmf.uns.ac.rs), Novi Sad, Serbia
-   - 07.02-07.04: [ICCS](https://www.iccs-meeting.org/), Singapore
    - 07.03-07.05: [Applied Linear Algebra](https://ala2025.pmf.uns.ac.rs), Novi Sad, Serbia
    - 07.18-07.20: [大数据与人工智能科学大会](http://bdai2025.icrp.xjtu.edu.cn/), 桂林
    - 07.19-07.23: [NASC](https://lsec.cc.ac.cn/~NASCNAG/NASC_pages/Conf_pages/NASC25_pages/), 西安
