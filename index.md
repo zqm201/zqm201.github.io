@@ -11,11 +11,13 @@
    - (2026) 03.02-03.06: [PP26](https://www.siam.org/conferences-events/siam-conferences/pp26/), Berlin, Germany
    - (2026) 03.10-03.12: [EMS TAG SciML](https://cds.uni-koeln.de/en/workshops/ems-tag-sciml/save-the-date), Cologne, Germany
    - (2026) 03.16-03.20: [GAMM](https://jahrestagung.gamm.org/annual-meeting-2026/), Stuttgart, Germany
+   - (2026) 05.18-05.22: [ILAS](https://ilas2026.math.vt.edu/), Blacksburg, VA
    - (2026) 05.25-05.29: [IPDPS](https://www.ipdps.org/), New Orleans, LA
    - (2026) 05.27-05.29: [Preconditioning](https://icms.ac.uk/activities/workshop/precond26/), Edinburgh, UK
    - (2026) 06.02-06.05: [OP26](https://www.siam.org/conferences-events/siam-conferences/op26/), Edinburgh, UK
    - (2026) 06.21-06.27: [NUMTA](https://www.numta.org), Calabria, Italy
    - (2026) 06.29-07.01: [ICCS](https://www.iccs-meeting.org/), Hamburg, Germany
+   - (2026) 06.29-07.01: [PASC](https://pasc26.pasc-conference.org/), Bern, Switzerland
    - (2026) 06.29-07.03: [SciCADE](https://www.scicade.org/), Edinburgh, UK
    - (2026) 06.30-07.03: [Sparsedays](https://sparsedays.cerfacs.fr/), Saint-Girons, France
    - (2026) 07.08-07.18: [FoCM](https://focm2026.univie.ac.at/), Vienna, Austria
@@ -26,15 +28,12 @@
    - (2024) 05.13-05.17: [LA24](https://www.siam.org/conferences/cm/conference/la24), Paris, France
    - (2024) 06.12-06.14: [ALAMA](https://www.unioviedo.es/alama2024/), Gijon, Spain
    - (2024) 07.08-07.12: [SciML](https://irma.math.unistra.fr/~micheldansac/SciML2024/), Strasbourg, France
-   - (2024) 09.04-09.06: [CST/ECT](https://www.civil-comp.info/diary/), Prague, Czech Republic
    - 03.03-03.07: [SCML](https://scml.jp/), Kyoto, Japan
    - 03.03-03.07: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse25), Fort Worth, TX
    - 04.13-04.17: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
    - 04.23-04.24: [CAS-ANLA](https://bvieuble.me/casanla/), 北京
    - 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
-   - 06.16-06.18: [PASC](https://pasc25.pasc-conference.org/), Brugg, Switzerland
    - 06.16-06.20: [LSSC](https://parallel.bas.bg/Conferences/SciCom25/), Sozopol, Bulgaria
-   - 06.23-06.27: [ILAS](https://ilas2025.tw), 高雄
    - 06.23-06.27: [DDM](https://www.dd29.polimi.it), Milan, Italy
    - 06.24-06.27: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
    - 06.30-07.02: [MatTriad](https://mattriad2025.pmf.uns.ac.rs), Novi Sad, Serbia
