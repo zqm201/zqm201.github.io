@@ -21,6 +21,7 @@
    - (2026) 06.29-07.03: [SciCADE](https://www.scicade.org/), Edinburgh, UK
    - (2026) 06.30-07.03: [Sparsedays](https://sparsedays.cerfacs.fr/), Saint-Girons, France
    - (2026) 07.08-07.18: [FoCM](https://focm2026.univie.ac.at/), Vienna, Austria
+   - (2026) 08.31-09.02: [Approximate Computing in N(M)LA](https://indico3.mpi-magdeburg.mpg.de/event/59/), Magdeburg, Germany
    - (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
 * Past Events:
    - (2023) 09.11-09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
