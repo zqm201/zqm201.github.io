@@ -4,6 +4,7 @@
    - 10.08-10.10: [Approximate Computing in NLA](https://approxcomputing.sciencesconf.org/), Paris, France
    - 10.23-10.24: [GAMM ANLA](https://eventi.unibo.it/gamm-anla-2025), Bologna, Italy
    - 10.23-10.26: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 长沙
+   - 11.14-11.17: [SIMIS](https://smip-workshop2025.simis.cn/), 上海
    - 11.16-11.21: [SC](https://sc25.supercomputing.org), St. Louis, MO
    - (2026) 01.07-01.09: [METT](https://homes.esat.kuleuven.be/~mettxi/), Leuven, Belgium
    - (2026) 01.31-02.04: [PPoPP](https://ppopp26.sigplan.org/), Sydney, Australia
