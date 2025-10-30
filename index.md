@@ -20,6 +20,7 @@
    - (2026) 06.30-07.03: [Sparsedays](https://sparsedays.cerfacs.fr/), Saint-Girons, France
    - (2026) 07.08-07.18: [FoCM](https://focm2026.univie.ac.at/), Vienna, Austria
    - (2026) 08.31-09.02: [Approximate Computing in N(M)LA](https://indico3.mpi-magdeburg.mpg.de/event/59/), Magdeburg, Germany
+   - (2026) 09.03-09.04: [GAMM ANLA](https://indico3.mpi-magdeburg.mpg.de/event/58/), Magdeburg, Germany
    - (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
 * Past Events:
    - (2023) 09.11-09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
@@ -52,6 +53,5 @@
    - 08.31-09.05: [INdAM](https://events.dm.unipi.it/event/307/), Cortona, Italy
    - 09.01-09.05: [ENUMATH](http://www.enumath2025.eu), Heidelberg, Germany
    - 10.08-10.10: [Approximate Computing in NLA](https://approxcomputing.sciencesconf.org/), Paris, France
-   - 10.23-10.24: [GAMM ANLA](https://eventi.unibo.it/gamm-anla-2025), Bologna, Italy
    - 10.23-10.26: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 长沙
 * Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CUDA](https://docs.nvidia.com/cuda/), [D2L](http://d2l.ai), [EMS TAG SciML](https://ems-tag-sciml.github.io), [HQI](https://www.hqi.fr/en/), [ICMSEC](https://www.cc.ac.cn/), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PBDL](https://physicsbaseddeeplearning.org/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [Read the Docs](https://about.readthedocs.com/), [SIAM history](http://history.siam.org), [Sparsitute](https://sparsitute.lbl.gov/), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/), [xkcd](https://xkcd.com)
