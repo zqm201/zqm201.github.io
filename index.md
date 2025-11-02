@@ -13,11 +13,12 @@
    - (2026) 05.25-05.29: [IPDPS](https://www.ipdps.org/), New Orleans, LA
    - (2026) 05.27-05.29: [Preconditioning](https://icms.ac.uk/activities/workshop/precond26/), Edinburgh, UK
    - (2026) 06.02-06.05: [OP26](https://www.siam.org/conferences-events/siam-conferences/op26/), Edinburgh, UK
+   - (2026) 06.09-06.12: [NASCA26](https://nasca26.org/), Kalamata, Greece
    - (2026) 06.21-06.27: [NUMTA](https://www.numta.org), Calabria, Italy
    - (2026) 06.29-07.01: [ICCS](https://www.iccs-meeting.org/), Hamburg, Germany
    - (2026) 06.29-07.01: [PASC](https://pasc26.pasc-conference.org/), Bern, Switzerland
    - (2026) 06.29-07.03: [SciCADE](https://www.scicade.org/), Edinburgh, UK
-   - (2026) 06.30-07.03: [Sparsedays](https://sparsedays.cerfacs.fr/), Saint-Girons, France
+   - (2026) 06.29-07.03: [Saint-Girons V](https://saintgironsconference.eu/), Saint-Girons, France
    - (2026) 07.08-07.18: [FoCM](https://focm2026.univie.ac.at/), Vienna, Austria
    - (2026) 08.31-09.02: [Approximate Computing in N(M)LA](https://indico3.mpi-magdeburg.mpg.de/event/59/), Magdeburg, Germany
    - (2026) 09.03-09.04: [GAMM ANLA](https://indico3.mpi-magdeburg.mpg.de/event/58/), Magdeburg, Germany
