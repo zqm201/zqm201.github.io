@@ -1,7 +1,6 @@
 * Journals: [ACM OpenTOC](https://www.sighpc.org/events/acm-libraryopentoc), [Acta Numer](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://global-sci.com/csiam-am), [ETNA](https://etna.ricam.oeaw.ac.at/), [FoCM](https://link.springer.com/journal/10208), [IJHPCA](https://journals.sagepub.com/home/HPC), [IMAJNA](https://academic.oup.com/imajna), [JCM](https://global-sci.com/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications), [MCOM](https://www.ams.org/cgi-bin/mstrack/accepted_papers/mcom?active=press), [Nat Comput Sci](https://www.nature.com/natcomputsci), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [Numer Math](https://link.springer.com/journal/211), [RSTA](https://royalsocietypublishing.org/journal/rsta), [SIMAX](https://epubs.siam.org/journal/sjmael), [SIMODS](https://epubs.siam.org/journal/sjmdaq), [SISC](https://epubs.siam.org/journal/sjoce3), [TOMS](https://dl.acm.org/journal/toms)
 * Societies: [CSIAM](http://csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-   - 11.14-11.17: [SIMIS](https://smip-workshop2025.simis.cn/), 上海
    - 11.16-11.21: [SC](https://sc25.supercomputing.org), St. Louis, MO
    - (2026) 01.07-01.09: [METT](https://homes.esat.kuleuven.be/~mettxi/), Leuven, Belgium
    - (2026) 01.31-02.04: [PPoPP](https://ppopp26.sigplan.org/), Sydney, Australia
@@ -55,4 +54,6 @@
    - 09.01-09.05: [ENUMATH](http://www.enumath2025.eu), Heidelberg, Germany
    - 10.08-10.10: [Approximate Computing in NLA](https://approxcomputing.sciencesconf.org/), Paris, France
    - 10.23-10.26: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 长沙
+   - 11.03-11.07: [RAIM](https://raim2025.sciencesconf.org/), Lyon, France
+   - 11.14-11.17: [SIMIS](https://smip-workshop2025.simis.cn/), 上海
 * Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CUDA](https://docs.nvidia.com/cuda/), [D2L](http://d2l.ai), [EMS TAG SciML](https://ems-tag-sciml.github.io), [HQI](https://www.hqi.fr/en/), [ICMSEC](https://www.cc.ac.cn/), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PBDL](https://physicsbaseddeeplearning.org/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [Read the Docs](https://about.readthedocs.com/), [SIAM history](http://history.siam.org), [Sparsitute](https://sparsitute.lbl.gov/), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/), [xkcd](https://xkcd.com)
