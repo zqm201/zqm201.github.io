@@ -13,6 +13,7 @@
    - (2026) 05.27-05.29: [Preconditioning](https://icms.ac.uk/activities/workshop/precond26/), Edinburgh, UK
    - (2026) 06.02-06.05: [OP26](https://www.siam.org/conferences-events/siam-conferences/op26/), Edinburgh, UK
    - (2026) 06.09-06.12: [NASCA26](https://nasca26.org/), Kalamata, Greece
+   - (2026) 06.21-06.26: [Colorado](https://coloradoconference.github.io/), Boulder, CO
    - (2026) 06.21-06.27: [NUMTA](https://www.numta.org), Calabria, Italy
    - (2026) 06.29-07.01: [ICCS](https://www.iccs-meeting.org/), Hamburg, Germany
    - (2026) 06.29-07.01: [PASC](https://pasc26.pasc-conference.org/), Bern, Switzerland
@@ -30,7 +31,6 @@
    - (2024) 07.08-07.12: [SciML](https://irma.math.unistra.fr/~micheldansac/SciML2024/), Strasbourg, France
    - 03.03-03.07: [SCML](https://scml.jp/), Kyoto, Japan
    - 03.03-03.07: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse25), Fort Worth, TX
-   - 04.13-04.17: [Copper Mountain](https://grandmaster.colorado.edu/copper/)
    - 04.23-04.24: [CAS-ANLA](https://bvieuble.me/casanla/), 北京
    - 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
    - 06.16-06.20: [LSSC](https://parallel.bas.bg/Conferences/SciCom25/), Sozopol, Bulgaria
