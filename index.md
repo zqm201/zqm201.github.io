@@ -19,9 +19,11 @@
    - (2026) 06.29-07.01: [PASC](https://pasc26.pasc-conference.org/), Bern, Switzerland
    - (2026) 06.29-07.03: [SciCADE](https://www.scicade.org/), Edinburgh, UK
    - (2026) 06.29-07.03: [Saint-Girons V](https://saintgironsconference.eu/), Saint-Girons, France
+   - (2026) 07.06-07.10: [SPAA](https://spaa.acm.org/), London, UK
    - (2026) 07.08-07.18: [FoCM](https://focm2026.univie.ac.at/), Vienna, Austria
    - (2026) 08.31-09.02: [Approximate Computing in N(M)LA](https://indico3.mpi-magdeburg.mpg.de/event/59/), Magdeburg, Germany
    - (2026) 09.03-09.04: [GAMM ANLA](https://indico3.mpi-magdeburg.mpg.de/event/58/), Magdeburg, Germany
+   - (2026) 12.06-12.11: [DD30](https://sites.google.com/unal.edu.co/dd30bogota/), Bogota, Colombia
    - (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
 * Past Events:
    - (2023) 09.11-09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
@@ -33,14 +35,12 @@
    - 04.23-04.24: [CAS-ANLA](https://bvieuble.me/casanla/), 北京
    - 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
    - 06.16-06.20: [LSSC](https://parallel.bas.bg/Conferences/SciCom25/), Sozopol, Bulgaria
-   - 06.23-06.27: [DDM](https://www.dd29.polimi.it), Milan, Italy
    - 06.24-06.27: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
    - 06.30-07.02: [MatTriad](https://mattriad2025.pmf.uns.ac.rs), Novi Sad, Serbia
    - 07.03-07.05: [Applied Linear Algebra](https://ala2025.pmf.uns.ac.rs), Novi Sad, Serbia
    - 07.18-07.20: [大数据与人工智能科学大会](http://bdai2025.icrp.xjtu.edu.cn/), 桂林
    - 07.19-07.23: [NASC](https://lsec.cc.ac.cn/~NASCNAG/NASC_pages/Conf_pages/NASC25_pages/), 西安
    - 07.20-07.23: [HPDC](https://hpdc.sci.utah.edu/), Notre Dame, IN
-   - 07.28-08.01: [SPAA](https://spaa.acm.org/), Portland, OR
    - 08.02-08.06: [解法器快速算法及应用研讨会](https://solver-conference.cn), 青岛
    - 08.04-08.07: [数值优化与数值代数国际会议](https://lsec.cc.ac.cn/~icnonla25/), 哈尔滨
    - 08.04-08.08: [MSML](https://sites.google.com/view/msml2025), Naples, Italy
