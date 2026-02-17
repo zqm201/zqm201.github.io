@@ -1,7 +1,6 @@
 * Journals: [ACM OpenTOC](https://www.sighpc.org/events/acm-libraryopentoc), [Acta Numer](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://global-sci.com/csiam-am), [ETNA](https://etna.ricam.oeaw.ac.at/), [FoCM](https://link.springer.com/journal/10208), [IJHPCA](https://journals.sagepub.com/home/HPC), [IMAJNA](https://academic.oup.com/imajna), [JCM](https://global-sci.com/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications), [MCOM](https://www.ams.org/cgi-bin/mstrack/accepted_papers/mcom?active=press), [Nat Comput Sci](https://www.nature.com/natcomputsci), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [Numer Math](https://link.springer.com/journal/211), [RSTA](https://royalsocietypublishing.org/journal/rsta), [SIMAX](https://epubs.siam.org/journal/sjmael), [SIMODS](https://epubs.siam.org/journal/sjmdaq), [SISC](https://epubs.siam.org/journal/sjoce3), [TOMS](https://dl.acm.org/journal/toms)
 * Societies: [CSIAM](http://csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-   - 02.15-02.20: [Dagstuhl Seminar: Mixed Precision](https://www.dagstuhl.de/26081), Wadern, Germany
    - 03.02-03.06: [PP26](https://www.siam.org/conferences-events/siam-conferences/pp26/), Berlin, Germany
    - 03.10-03.12: [EMS TAG SciML](https://cds.uni-koeln.de/en/workshops/ems-tag-sciml/save-the-date), Cologne, Germany
    - 03.16-03.20: [GAMM](https://jahrestagung.gamm.org/annual-meeting-2026/), Stuttgart, Germany
@@ -20,42 +19,37 @@
    - 06.29-07.03: [Saint-Girons V](https://saintgironsconference.eu/), Saint-Girons, France
    - 07.06-07.10: [SPAA](https://spaa.acm.org/), London, UK
    - 07.08-07.18: [FoCM](https://focm2026.univie.ac.at/), Vienna, Austria
+   - 07.13-07.16: [HPDC](https://hpdc.sci.utah.edu/), Cleveland, OH
+   - 08.18-08.21: [ISNN](https://conference.cs.cityu.edu.hk/isnn/), 汉中
    - 08.31-09.02: [Approximate Computing in N(M)LA](https://indico3.mpi-magdeburg.mpg.de/event/59/), Magdeburg, Germany
    - 09.03-09.04: [GAMM ANLA](https://indico3.mpi-magdeburg.mpg.de/event/58/), Magdeburg, Germany
    - 09.07-09.08: [Block Krylov](https://workshop.math.cas.cz/BlockKrylov/), Prague, Czech Republic
+   - 10.28-10.30: [ICA3PP](https://hpcn.exeter.ac.uk/ica3pp2026/), Exeter, UK
+   - 11.15-11.20: [SC](https://sc26.supercomputing.org), Chicago, IL
    - 12.06-12.11: [DD30](https://sites.google.com/unal.edu.co/dd30bogota/), Bogota, Colombia
+   - (2027) 02.22-02.26: [SIAM CSE](https://www.siam.org/conferences-events/siam-conferences/cse27/), Pittsburgh, PA
    - (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
 * Past Events:
    - (2023) 09.11-09.15: [IMACS](https://www.imacs2023.eu/), Rome, Italy
    - (2024) 03.15-03.20: [ALGORITMY](https://www.math.sk/alg2024/), Bratislava, Slovakia
    - (2024) 05.13-05.17: [LA24](https://www.siam.org/conferences/cm/conference/la24), Paris, France
-   - (2024) 07.08-07.12: [SciML](https://irma.math.unistra.fr/~micheldansac/SciML2024/), Strasbourg, France
-   - (2025) 03.03-03.07: [SCML](https://scml.jp/), Kyoto, Japan
-   - (2025) 03.03-03.07: [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse25), Fort Worth, TX
-   - (2025) 04.23-04.24: [CAS-ANLA](https://bvieuble.me/casanla/), 北京
    - (2025) 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
    - (2025) 06.16-06.20: [LSSC](https://parallel.bas.bg/Conferences/SciCom25/), Sozopol, Bulgaria
    - (2025) 06.24-06.27: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
    - (2025) 06.30-07.02: [MatTriad](https://mattriad2025.pmf.uns.ac.rs), Novi Sad, Serbia
-   - (2025) 07.03-07.05: [Applied Linear Algebra](https://ala2025.pmf.uns.ac.rs), Novi Sad, Serbia
    - (2025) 07.18-07.20: [大数据与人工智能科学大会](http://bdai2025.icrp.xjtu.edu.cn/), 桂林
    - (2025) 07.19-07.23: [NASC](https://lsec.cc.ac.cn/~NASCNAG/NASC_pages/Conf_pages/NASC25_pages/), 西安
-   - (2025) 07.20-07.23: [HPDC](https://hpdc.sci.utah.edu/), Notre Dame, IN
    - (2025) 08.02-08.06: [解法器快速算法及应用研讨会](https://solver-conference.cn), 青岛
    - (2025) 08.04-08.07: [数值优化与数值代数国际会议](https://lsec.cc.ac.cn/~icnonla25/), 哈尔滨
-   - (2025) 08.04-08.08: [MSML](https://sites.google.com/view/msml2025), Naples, Italy
    - (2025) 08.14-08.16: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2025), 鄂尔多斯
    - (2025) 08.17-08.21: [中国数学会计算数学年会](https://my.31huiyi.com/site/pages/index/index?pageId=dcfa0000-b665-5ae1-afd9-08dd553be668), 长沙
    - (2025) 08.19-08.20: [Nordic NLA](http://nordic-nla.eu/uppsala-meeting-2025/), Uppsala, Sweden
    - (2025) 08.21-08.24: [京津冀+计算数学学术交流会](https://www.math.sdu.edu.cn/info/1019/20787.htm), 济南
-   - (2025) 08.22-08.24: [ISNN](https://conference.cs.cityu.edu.hk/isnn/), 张掖
    - (2025) 08.31-09.05: [INdAM](https://events.dm.unipi.it/event/307/), Cortona, Italy
    - (2025) 09.01-09.05: [ENUMATH](http://www.enumath2025.eu), Heidelberg, Germany
-   - (2025) 10.08-10.10: [Approximate Computing in NLA](https://approxcomputing.sciencesconf.org/), Paris, France
    - (2025) 10.23-10.26: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 长沙
    - (2025) 11.03-11.07: [RAIM](https://raim2025.sciencesconf.org/), Lyon, France
-   - (2025) 11.14-11.17: [SIMIS](https://smip-workshop2025.simis.cn/), 上海
-   - (2025) 11.16-11.21: [SC](https://sc25.supercomputing.org), St. Louis, MO
    - 01.07-01.09: [METT](https://homes.esat.kuleuven.be/~mettxi/), Leuven, Belgium
    - 01.31-02.04: [PPoPP](https://ppopp26.sigplan.org/), Sydney, Australia
+   - 02.15-02.20: [Dagstuhl Seminar: Mixed Precision](https://www.dagstuhl.de/26081), Wadern, Germany
 * Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CS146S](https://themodernsoftware.dev/), [CUDA](https://docs.nvidia.com/cuda/), [D2L](http://d2l.ai), [EMS TAG SciML](https://ems-tag-sciml.github.io), [HQI](https://www.hqi.fr/en/), [ICMSEC](https://www.cc.ac.cn/), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PBDL](https://physicsbaseddeeplearning.org/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [Read the Docs](https://about.readthedocs.com/), [SIAM history](http://history.siam.org), [Sparsitute](https://sparsitute.lbl.gov/), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/), [xkcd](https://xkcd.com)
