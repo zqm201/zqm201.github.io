@@ -18,8 +18,9 @@
    - 07.08-07.18: [FoCM](https://focm2026.univie.ac.at/), Vienna, Austria
    - 07.13-07.16: [HPDC](https://hpdc.sci.utah.edu/), Cleveland, OH
    - 08.18-08.21: [ISNN](https://conference.cs.cityu.edu.hk/isnn/), 汉中
-   - 08.31-09.04: [NMA26](https://nma26.iict.bas.bg/), Borovets, Bulgaria
+   - 08.30-09.02: [PPAM](https://ppam.edu.pl/), Poznan, Poland
    - 08.31-09.02: [Approximate Computing in N(M)LA](https://indico3.mpi-magdeburg.mpg.de/event/59/), Magdeburg, Germany
+   - 08.31-09.04: [NMA26](https://nma26.iict.bas.bg/), Borovets, Bulgaria
    - 09.03-09.04: [GAMM ANLA](https://indico3.mpi-magdeburg.mpg.de/event/58/), Magdeburg, Germany
    - 09.07-09.08: [Block Krylov](https://workshop.math.cas.cz/BlockKrylov/), Prague, Czech Republic
    - 09.21-09.25: [ApplMath](https://applmath.math.pmf.unizg.hr/), Dubrovnik, Croatia
