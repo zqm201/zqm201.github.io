@@ -7,6 +7,7 @@
    - 06.01-06.04: [ESCO](https://esco2026.fel.zcu.cz/), Pilsen, Czech Republic
    - 06.02-06.05: [OP26](https://www.siam.org/conferences-events/siam-conferences/op26/), Edinburgh, UK
    - 06.09-06.12: [NASCA26](https://nasca26.org/), Kalamata, Greece
+   - 06.15-06.18: [NMSCAA](https://parallel.bas.bg/Conferences/nmscaa26/), Sozopol, Bulgaria
    - 06.17-06.19: [ALAMA](https://congresosalcala.fgua.es/alama2026/), Huelva, Spain
    - 06.21-06.26: [Colorado](https://coloradoconference.github.io/), Boulder, CO
    - 06.21-06.27: [NUMTA](https://www.numta.org), Calabria, Italy
