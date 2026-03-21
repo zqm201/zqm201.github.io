@@ -18,6 +18,7 @@
    - 07.06-07.10: [SPAA](https://spaa.acm.org/), London, UK
    - 07.08-07.18: [FoCM](https://focm2026.univie.ac.at/), Vienna, Austria
    - 07.13-07.16: [HPDC](https://hpdc.sci.utah.edu/), Cleveland, OH
+   - 08.02-08.05: [CQCC](https://ccf.org.cn/CQCC2026), 深圳
    - 08.18-08.21: [ISNN](https://conference.cs.cityu.edu.hk/isnn/), 汉中
    - 08.30-09.02: [PPAM](https://ppam.edu.pl/), Poznan, Poland
    - 08.31-09.02: [Approximate Computing in N(M)LA](https://indico3.mpi-magdeburg.mpg.de/event/59/), Magdeburg, Germany
