@@ -21,9 +21,11 @@
    - 07.13-07.16: [HPDC](https://hpdc.sci.utah.edu/), Cleveland, OH
    - 08.02-08.05: [CQCC](https://ccf.org.cn/CQCC2026), 深圳
    - 08.18-08.21: [ISNN](https://conference.cs.cityu.edu.hk/isnn/), 汉中
+   - 08.24-08.28: [AQIS](https://aqis-conf.org/), Daejeon, South Korea
    - 08.30-09.02: [PPAM](https://ppam.edu.pl/), Poznan, Poland
    - 08.31-09.02: [Approximate Computing in N(M)LA](https://indico3.mpi-magdeburg.mpg.de/event/59/), Magdeburg, Germany
    - 08.31-09.04: [NMA26](https://nma26.iict.bas.bg/), Borovets, Bulgaria
+   - 08.31-09.04: [TQC](https://tqc-conference.org/), Sherbrooke, Canada
    - 09.03-09.04: [GAMM ANLA](https://indico3.mpi-magdeburg.mpg.de/event/58/), Magdeburg, Germany
    - 09.07-09.08: [Block Krylov](https://workshop.math.cas.cz/BlockKrylov/), Prague, Czech Republic
    - 09.21-09.25: [ApplMath](https://applmath.math.pmf.unizg.hr/), Dubrovnik, Croatia
@@ -31,6 +33,7 @@
    - 10.28-10.30: [ICA3PP](https://hpcn.exeter.ac.uk/ica3pp2026/), Exeter, UK
    - 11.15-11.20: [SC](https://sc26.supercomputing.org), Chicago, IL
    - 12.06-12.11: [DD30](https://sites.google.com/unal.edu.co/dd30bogota/), Bogota, Colombia
+   - (2027) 02.20-02.26: [QIP](https://qip2027.org/), Singapore
    - (2027) 02.22-02.26: [SIAM CSE](https://www.siam.org/conferences-events/siam-conferences/cse27/), Pittsburgh, PA
    - (2027) 05.24-05.28: [LA27](https://www.siam.org/conferences-events/siam-conferences/la27/), Long Beach, CA
    - (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
