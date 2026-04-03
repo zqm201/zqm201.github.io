@@ -19,6 +19,7 @@
    - 07.06-07.10: [SPAA](https://spaa.acm.org/), London, UK
    - 07.08-07.18: [FoCM](https://focm2026.univie.ac.at/), Vienna, Austria
    - 07.13-07.16: [HPDC](https://hpdc.sci.utah.edu/), Cleveland, OH
+   - 07.17-07.19: [大数据与人工智能科学大会](http://bdai2026.icrp.xjtu.edu.cn/), 厦门
    - 08.02-08.05: [CQCC](https://ccf.org.cn/CQCC2026), 深圳
    - 08.18-08.21: [ISNN](https://conference.cs.cityu.edu.hk/isnn/), 汉中
    - 08.24-08.28: [AQIS](https://aqis-conf.org/), Daejeon, South Korea
@@ -45,7 +46,6 @@
    - (2025) 06.16-06.20: [LSSC](https://parallel.bas.bg/Conferences/SciCom25/), Sozopol, Bulgaria
    - (2025) 06.24-06.27: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
    - (2025) 06.30-07.02: [MatTriad](https://mattriad2025.pmf.uns.ac.rs), Novi Sad, Serbia
-   - (2025) 07.18-07.20: [大数据与人工智能科学大会](http://bdai2025.icrp.xjtu.edu.cn/), 桂林
    - (2025) 07.19-07.23: [NASC](https://lsec.cc.ac.cn/~NASCNAG/NASC_pages/Conf_pages/NASC25_pages/), 西安
    - (2025) 08.02-08.06: [解法器快速算法及应用研讨会](https://solver-conference.cn), 青岛
    - (2025) 08.04-08.07: [数值优化与数值代数国际会议](https://lsec.cc.ac.cn/~icnonla25/), 哈尔滨
