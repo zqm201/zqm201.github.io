@@ -34,6 +34,7 @@
    - 10.17-10.20: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2026), 深圳
    - 10.28-10.30: [ICA3PP](https://hpcn.exeter.ac.uk/ica3pp2026/), Exeter, UK
    - 11.15-11.20: [SC](https://sc26.supercomputing.org), Chicago, IL
+   - 11.20-11.23: [解法器快速算法及应用研讨会](https://solver-conference.cn), 深圳
    - 12.06-12.11: [DD30](https://sites.google.com/unal.edu.co/dd30bogota/), Bogota, Colombia
    - (2027) 02.20-02.26: [QIP](https://qip2027.org/), Singapore
    - (2027) 02.22-02.26: [SIAM CSE](https://www.siam.org/conferences-events/siam-conferences/cse27/), Pittsburgh, PA
@@ -47,7 +48,6 @@
    - (2025) 06.24-06.27: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
    - (2025) 06.30-07.02: [MatTriad](https://mattriad2025.pmf.uns.ac.rs), Novi Sad, Serbia
    - (2025) 07.19-07.23: [NASC](https://lsec.cc.ac.cn/~NASCNAG/NASC_pages/Conf_pages/NASC25_pages/), 西安
-   - (2025) 08.02-08.06: [解法器快速算法及应用研讨会](https://solver-conference.cn), 青岛
    - (2025) 08.04-08.07: [数值优化与数值代数国际会议](https://lsec.cc.ac.cn/~icnonla25/), 哈尔滨
    - (2025) 08.17-08.21: [中国数学会计算数学年会](https://my.31huiyi.com/site/pages/index/index?pageId=dcfa0000-b665-5ae1-afd9-08dd553be668), 长沙
    - (2025) 08.19-08.20: [Nordic NLA](http://nordic-nla.eu/uppsala-meeting-2025/), Uppsala, Sweden
