@@ -30,6 +30,7 @@
    - 09.03-09.04: [GAMM ANLA](https://indico3.mpi-magdeburg.mpg.de/event/58/), Magdeburg, Germany
    - 09.07-09.08: [Block Krylov](https://workshop.math.cas.cz/BlockKrylov/), Prague, Czech Republic
    - 09.21-09.25: [ApplMath](https://applmath.math.pmf.unizg.hr/), Dubrovnik, Croatia
+   - 10.08-10.11: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 兰州
    - 10.14-10.16: [SBAC-PAD](https://coco-arcos.github.io/sbac-pad2026/), Madrid, Spain
    - 10.17-10.20: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2026), 深圳
    - 10.28-10.30: [ICA3PP](https://hpcn.exeter.ac.uk/ica3pp2026/), Exeter, UK
@@ -54,7 +55,6 @@
    - (2025) 08.21-08.24: [京津冀+计算数学学术交流会](https://www.math.sdu.edu.cn/info/1019/20787.htm), 济南
    - (2025) 08.31-09.05: [INdAM](https://events.dm.unipi.it/event/307/), Cortona, Italy
    - (2025) 09.01-09.05: [ENUMATH](http://www.enumath2025.eu), Heidelberg, Germany
-   - (2025) 10.23-10.26: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 长沙
    - (2025) 11.03-11.07: [RAIM](https://raim2025.sciencesconf.org/), Lyon, France
    - 01.07-01.09: [METT](https://homes.esat.kuleuven.be/~mettxi/), Leuven, Belgium
    - 01.31-02.04: [PPoPP](https://ppopp26.sigplan.org/), Sydney, Australia
