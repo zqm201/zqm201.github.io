@@ -27,6 +27,7 @@
    - 08.31-09.02: [Approximate Computing in N(M)LA](https://indico3.mpi-magdeburg.mpg.de/event/59/), Magdeburg, Germany
    - 08.31-09.04: [NMA26](https://nma26.iict.bas.bg/), Borovets, Bulgaria
    - 08.31-09.04: [TQC](https://tqc-conference.org/), Sherbrooke, Canada
+   - 09.02-09.04: [ICAME](https://icame.balikesir.edu.tr/), Cunda Island, Turkey
    - 09.03-09.04: [GAMM ANLA](https://indico3.mpi-magdeburg.mpg.de/event/58/), Magdeburg, Germany
    - 09.07-09.08: [Block Krylov](https://workshop.math.cas.cz/BlockKrylov/), Prague, Czech Republic
    - 09.21-09.25: [ApplMath](https://applmath.math.pmf.unizg.hr/), Dubrovnik, Croatia
