@@ -21,6 +21,7 @@
    - 07.17-07.19: [大数据与人工智能科学大会](http://bdai2026.icrp.xjtu.edu.cn/), 厦门
    - 08.02-08.05: [CQCC](https://ccf.org.cn/CQCC2026), 深圳
    - 08.18-08.21: [ISNN](https://conference.cs.cityu.edu.hk/isnn/), 汉中
+   - 08.19-08.22: [京津冀+计算数学学术交流会](https://www.math.sdu.edu.cn/info/1019/20787.htm), 哈尔滨
    - 08.24-08.28: [AQIS](https://aqis-conf.org/), Daejeon, South Korea
    - 08.30-09.02: [PPAM](https://ppam.edu.pl/), Poznan, Poland
    - 08.31-09.02: [Approximate Computing in N(M)LA](https://indico3.mpi-magdeburg.mpg.de/event/59/), Magdeburg, Germany
@@ -52,7 +53,6 @@
    - (2025) 08.04-08.07: [数值优化与数值代数国际会议](https://lsec.cc.ac.cn/~icnonla25/), 哈尔滨
    - (2025) 08.17-08.21: [中国数学会计算数学年会](https://my.31huiyi.com/site/pages/index/index?pageId=dcfa0000-b665-5ae1-afd9-08dd553be668), 长沙
    - (2025) 08.19-08.20: [Nordic NLA](http://nordic-nla.eu/uppsala-meeting-2025/), Uppsala, Sweden
-   - (2025) 08.21-08.24: [京津冀+计算数学学术交流会](https://www.math.sdu.edu.cn/info/1019/20787.htm), 济南
    - (2025) 08.31-09.05: [INdAM](https://events.dm.unipi.it/event/307/), Cortona, Italy
    - (2025) 09.01-09.05: [ENUMATH](http://www.enumath2025.eu), Heidelberg, Germany
    - (2025) 11.03-11.07: [RAIM](https://raim2025.sciencesconf.org/), Lyon, France
