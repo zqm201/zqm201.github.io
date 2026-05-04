@@ -23,6 +23,7 @@
    - 08.18-08.21: [ISNN](https://conference.cs.cityu.edu.hk/isnn/), 汉中
    - 08.19-08.22: [京津冀+计算数学学术交流会](https://www.math.sdu.edu.cn/info/1019/20787.htm), 哈尔滨
    - 08.24-08.28: [AQIS](https://aqis-conf.org/), Daejeon, South Korea
+   - 08.27-08.29: [ECT](https://www.civil-comp.info/2026/ect/), Budapest, Hungary
    - 08.30-09.02: [PPAM](https://ppam.edu.pl/), Poznan, Poland
    - 08.31-09.02: [Approximate Computing in N(M)LA](https://indico3.mpi-magdeburg.mpg.de/event/59/), Magdeburg, Germany
    - 08.31-09.04: [NMA26](https://nma26.iict.bas.bg/), Borovets, Bulgaria
