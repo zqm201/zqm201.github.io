@@ -1,4 +1,6 @@
-* Journals: [ACM OpenTOC](https://www.sighpc.org/events/acm-libraryopentoc), [Acta Numer](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://global-sci.com/csiam-am), [ETNA](https://etna.ricam.oeaw.ac.at/), [FoCM](https://link.springer.com/journal/10208), [IJHPCA](https://journals.sagepub.com/home/HPC), [IMAJNA](https://academic.oup.com/imajna), [JCM](https://global-sci.com/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications), [MCOM](https://pubs.ams.org/MCOM), [Nat Comput Sci](https://www.nature.com/natcomputsci), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [Numer Math](https://link.springer.com/journal/211), [RSTA](https://royalsocietypublishing.org/journal/rsta), [SIMAX](https://epubs.siam.org/journal/sjmael), [SIMODS](https://epubs.siam.org/journal/sjmdaq), [SISC](https://epubs.siam.org/journal/sjoce3), [TOMS](https://dl.acm.org/journal/toms)
+* Journals: [ACM OpenTOC](https://www.sighpc.org/events/acm-libraryopentoc), [Acta Numer](https://www.cambridge.org/core/journals/acta-numerica), [CSIAM-AM](https://global-sci.com/csiam-am), [ETNA](https://etna.ricam.oeaw.ac.at/), [FoCM](https://link.springer.com/journal/10208), [IJHPCA](https://journals.sagepub.com/home/HPC), [IMAJNA](https://academic.oup.com/imajna), [JCM](https://global-sci.com/jcm), [LAA](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications), [MCOM](https://pubs.ams.org/MCOM), [Nat Comput Sci](https://www.nature.com/natcomputsci), [NLAA](https://onlinelibrary.wiley.com/journal/10991506), [Numer Math](https://link.springer.com/journal/211), [RSTA](https://royalsocietypublishing.org/journal/rsta), [SIMAX](https://epubs.siam.org/journal/sjmael), [SIMODS](https://epubs.siam.org/journal/sjmdaq), [SISC](https://epubs.siam.org/journal/sjoce3), [TOMS](https://dl.acm.org/journal/toms), [TPDS](https://www.computer.org/csdl/journal/td)
+   - AI: [AI](https://www.sciencedirect.com/journal/artificial-intelligence), [JML](https://www.global-sci.com/jml), [TOPML](https://dl.acm.org/journal/topml), [JMLR](https://www.jmlr.org/), [TOPML](https://dl.acm.org/journal/topml), [TPAMI](https://www.computer.org/csdl/journal/tp)
+   - Quantum: [npjQI](https://www.nature.com/npjqi/), [QST](https://iopscience.iop.org/journal/2058-9565), [TQC](https://dl.acm.org/journal/TQC), [TQE](https://tqe.ieee.org/)
 * Societies: [CSIAM](http://csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
    - 05.18-05.22: [ILAS](https://ilas2026.math.vt.edu/), Blacksburg, VA
@@ -41,6 +43,7 @@
    - 12.06-12.11: [DD30](https://sites.google.com/unal.edu.co/dd30bogota/), Bogota, Colombia
    - (2027) 02.20-02.26: [QIP](https://qip2027.org/), Singapore
    - (2027) 02.22-02.26: [SIAM CSE](https://www.siam.org/conferences-events/siam-conferences/cse27/), Pittsburgh, PA
+   - (2027) 03.08-03.12: [GAMM](https://jahrestagung.gamm.org/), Ulm, Germany
    - (2027) 05.24-05.28: [LA27](https://www.siam.org/conferences-events/siam-conferences/la27/), Long Beach, CA
    - (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
 * Past Events:
@@ -62,6 +65,5 @@
    - 02.15-02.20: [Dagstuhl Seminar: Mixed Precision](https://www.dagstuhl.de/26081), Wadern, Germany
    - 03.02-03.06: [PP26](https://www.siam.org/conferences-events/siam-conferences/pp26/), Berlin, Germany
    - 03.10-03.12: [EMS TAG SciML](https://cds.uni-koeln.de/en/workshops/ems-tag-sciml/save-the-date), Cologne, Germany
-   - 03.16-03.20: [GAMM](https://jahrestagung.gamm.org/annual-meeting-2026/), Stuttgart, Germany
    - 04.17-04.20: [中国数学会计算机数学大会](http://www.mmrc.iss.ac.cn/cscm/cm2026/), 镇江
 * Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CS146S](https://themodernsoftware.dev/), [CUDA](https://docs.nvidia.com/cuda/), [D2L](http://d2l.ai), [EMS TAG SciML](https://ems-tag-sciml.github.io), [HQI](https://www.hqi.fr/en/), [ICMSEC](https://www.cc.ac.cn/), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PBDL](https://physicsbaseddeeplearning.org/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [Qubit Game](https://quantumai.google/education/thequbitgame), [Read the Docs](https://about.readthedocs.com/), [SIAM history](http://history.siam.org), [Sparsitute](https://sparsitute.lbl.gov/), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/), [xkcd](https://xkcd.com)
