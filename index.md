@@ -22,6 +22,7 @@
    - 07.13-07.16: [HPDC](https://hpdc.sci.utah.edu/), Cleveland, OH
    - 07.17-07.19: [大数据与人工智能科学大会](http://bdai2026.icrp.xjtu.edu.cn/), 厦门
    - 08.02-08.05: [CQCC](https://ccf.org.cn/CQCC2026), 深圳
+   - 08.10-08.14: [QSim](https://qsimconference.org/), Amsterdam, The Netherlands
    - 08.18-08.21: [ISNN](https://conference.cs.cityu.edu.hk/isnn/), 汉中
    - 08.19-08.22: [京津冀+计算数学学术交流会](https://www.math.sdu.edu.cn/info/1019/20787.htm), 哈尔滨
    - 08.24-08.28: [AQIS](https://aqis-conf.org/), Daejeon, South Korea
