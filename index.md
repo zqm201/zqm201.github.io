@@ -24,7 +24,7 @@
    - 08.02-08.05: [CQCC](https://ccf.org.cn/CQCC2026), 深圳
    - 08.10-08.14: [QSim](https://qsimconference.org/), Amsterdam, The Netherlands
    - 08.18-08.21: [ISNN](https://conference.cs.cityu.edu.hk/isnn/), 汉中
-   - 08.19-08.22: [京津冀+计算数学学术交流会](https://www.math.sdu.edu.cn/info/1019/20787.htm), 哈尔滨
+   - 08.19-08.22: [京津冀+计算数学学术交流会](https://math.pku.edu.cn/bjscm/tzgg/6ad1431b2afa4530a8d94ef7a0599a44.htm), 哈尔滨
    - 08.24-08.28: [AQIS](https://aqis-conf.org/), Daejeon, South Korea
    - 08.27-08.29: [ECT](https://www.civil-comp.info/2026/ect/), Budapest, Hungary
    - 08.30-09.02: [PPAM](https://ppam.edu.pl/), Poznan, Poland
