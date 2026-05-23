@@ -32,6 +32,7 @@
    - 09.02-09.04: [ICAME](https://icame.balikesir.edu.tr/), Cunda Island, Turkey
    - 09.03-09.04: [GAMM ANLA](https://indico3.mpi-magdeburg.mpg.de/event/58/), Magdeburg, Germany
    - 09.07-09.08: [Block Krylov](https://workshop.math.cas.cz/BlockKrylov/), Prague, Czech Republic
+   - 09.14-09.18: [YAMC](https://sites.google.com/view/yamc/), Turin, Italy
    - 09.21-09.25: [ApplMath](https://applmath.math.pmf.unizg.hr/), Dubrovnik, Croatia
    - 09.21-09.24: [AIS](https://ais2026.icas.events/), Grosseto, Italy
    - 10.08-10.11: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 兰州
