@@ -3,14 +3,6 @@
    - Quantum Computing: [npjQI](https://www.nature.com/npjqi/), [PRA](https://journals.aps.org/pra/), [Quantum](https://quantum-journal.org/), [QMI](https://link.springer.com/journal/42484), [QST](https://iopscience.iop.org/journal/2058-9565), [TQC](https://dl.acm.org/journal/TQC), [TQE](https://tqe.ieee.org/)
 * Societies: [CSIAM](http://csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-   - 05.27-05.29: [Preconditioning](https://icms.ac.uk/activities/workshop/precond26/), Edinburgh, UK
-   - 06.01-06.04: [ESCO](https://esco2026.fel.zcu.cz/), Pilsen, Czech Republic
-   - 06.02-06.05: [OP26](https://www.siam.org/conferences-events/siam-conferences/op26/), Edinburgh, UK
-   - 06.09-06.12: [NASCA26](https://nasca26.org/), Kalamata, Greece
-   - 06.15-06.18: [NMSCAA](https://parallel.bas.bg/Conferences/nmscaa26/), Sozopol, Bulgaria
-   - 06.17-06.19: [ALAMA](https://congresosalcala.fgua.es/alama2026/), Huelva, Spain
-   - 06.21-06.26: [Colorado](https://coloradoconference.github.io/), Boulder, CO
-   - 06.21-06.27: [NUMTA](https://www.numta.org), Calabria, Italy
    - 06.29-07.01: [ICCS](https://www.iccs-meeting.org/), Hamburg, Germany
    - 06.29-07.01: [PASC](https://pasc26.pasc-conference.org/), Bern, Switzerland
    - 06.29-07.03: [SciCADE](https://www.scicade.org/), Edinburgh, UK
@@ -35,6 +27,7 @@
    - 09.14-09.18: [YAMC](https://sites.google.com/view/yamc/), Turin, Italy
    - 09.21-09.25: [ApplMath](https://applmath.math.pmf.unizg.hr/), Dubrovnik, Croatia
    - 09.21-09.24: [AIS](https://ais2026.icas.events/), Grosseto, Italy
+   - 10.05-10.09: [AI4Sci](https://ai4sci.eu/), Mainz, Germany
    - 10.08-10.11: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 兰州
    - 10.14-10.16: [SBAC-PAD](https://coco-arcos.github.io/sbac-pad2026/), Madrid, Spain
    - 10.15-10.16: [AIMSA](https://www.aimsaconference.org/), Sofia, Bulgaria
@@ -70,4 +63,12 @@
    - 04.17-04.20: [中国数学会计算机数学大会](http://www.mmrc.iss.ac.cn/cscm/cm2026/), 镇江
    - 05.18-05.22: [ILAS](https://ilas2026.math.vt.edu/), Blacksburg, VA
    - 05.25-05.29: [IPDPS](https://www.ipdps.org/), New Orleans, LA
+   - 05.27-05.29: [Preconditioning](https://icms.ac.uk/activities/workshop/precond26/), Edinburgh, UK
+   - 06.01-06.04: [ESCO](https://esco2026.fel.zcu.cz/), Pilsen, Czech Republic
+   - 06.02-06.05: [OP26](https://www.siam.org/conferences-events/siam-conferences/op26/), Edinburgh, UK
+   - 06.09-06.12: [NASCA26](https://nasca26.org/), Kalamata, Greece
+   - 06.15-06.18: [NMSCAA](https://parallel.bas.bg/Conferences/nmscaa26/), Sozopol, Bulgaria
+   - 06.17-06.19: [ALAMA](https://congresosalcala.fgua.es/alama2026/), Huelva, Spain
+   - 06.21-06.26: [Colorado](https://coloradoconference.github.io/), Boulder, CO
+   - 06.21-06.27: [NUMTA](https://www.numta.org), Calabria, Italy
 * Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CS146S](https://themodernsoftware.dev/), [CUDA](https://docs.nvidia.com/cuda/), [D2L](http://d2l.ai), [EMS TAG SciML](https://ems-tag-sciml.github.io), [HQI](https://www.hqi.fr/en/), [ICMSEC](https://www.cc.ac.cn/), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PBDL](https://physicsbaseddeeplearning.org/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [Qubit Game](https://quantumai.google/education/thequbitgame), [Read the Docs](https://about.readthedocs.com/), [SIAM history](http://history.siam.org), [Sparsitute](https://sparsitute.lbl.gov/), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/), [xkcd](https://xkcd.com)
