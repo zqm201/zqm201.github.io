@@ -35,6 +35,7 @@
    - 10.28-10.30: [ICA3PP](https://hpcn.exeter.ac.uk/ica3pp2026/), Exeter, UK
    - 11.15-11.20: [SC](https://sc26.supercomputing.org), Chicago, IL
    - 11.20-11.23: [解法器快速算法及应用研讨会](https://solver-conference.cn), 深圳
+   - 12.01-12.04: [ACML](https://www.acml-conf.org/), Melbourne, Australia
    - 12.06-12.11: [DD30](https://sites.google.com/unal.edu.co/dd30bogota/), Bogota, Colombia
    - (2027) 02.20-02.26: [QIP](https://qip2027.org/), Singapore
    - (2027) 02.22-02.26: [SIAM CSE](https://www.siam.org/conferences-events/siam-conferences/cse27/), Pittsburgh, PA
