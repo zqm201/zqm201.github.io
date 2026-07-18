@@ -32,9 +32,12 @@
    - (2027) 02.20-02.26: [QIP](https://qip2027.org/), Singapore
    - (2027) 02.22-02.26: [SIAM CSE](https://www.siam.org/conferences-events/siam-conferences/cse27/), Pittsburgh, PA
    - (2027) 03.08-03.12: [GAMM](https://jahrestagung.gamm.org/), Ulm, Germany
+   - (2027) 03.20-03.24: [PPoPP](https://ppopp27.sigplan.org/), Salt Lake City, UT
    - (2027) 05.24-05.28: [LA27](https://www.siam.org/conferences-events/siam-conferences/la27/), Long Beach, CA
+   - (2027) 06.05-06.11: [SPAA](https://spaa.acm.org/), Atlanta, GA
    - (2027) 06.14-06.18: [LSSC](https://parallel.bas.bg/Conferences/SciCom27/), Sozopol, Bulgaria
    - (2027) 06.22-06.25: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
+   - (2027) 07.12-07.14: [ICCS](https://www.iccs-meeting.org/), Krakow, Poland
    - (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
    - (2027) 07.19-07.23: [IMACS](https://www.imacs2027.eu/), Seville, Spain
 * Past Events:
@@ -49,7 +52,6 @@
    - (2025) 09.01-09.05: [ENUMATH](http://www.enumath2025.eu), Heidelberg, Germany
    - (2025) 11.03-11.07: [RAIM](https://raim2025.sciencesconf.org/), Lyon, France
    - 01.07-01.09: [METT](https://homes.esat.kuleuven.be/~mettxi/), Leuven, Belgium
-   - 01.31-02.04: [PPoPP](https://ppopp26.sigplan.org/), Sydney, Australia
    - 02.15-02.20: [Dagstuhl Seminar: Mixed Precision](https://www.dagstuhl.de/26081), Wadern, Germany
    - 03.02-03.06: [PP26](https://www.siam.org/conferences-events/siam-conferences/pp26/), Berlin, Germany
    - 03.10-03.12: [EMS TAG SciML](https://cds.uni-koeln.de/en/workshops/ems-tag-sciml/save-the-date), Cologne, Germany
@@ -64,11 +66,9 @@
    - 06.17-06.19: [ALAMA](https://congresosalcala.fgua.es/alama2026/), Huelva, Spain
    - 06.21-06.26: [Colorado](https://coloradoconference.github.io/), Boulder, CO
    - 06.21-06.27: [NUMTA](https://www.numta.org), Calabria, Italy
-   - 06.29-07.01: [ICCS](https://www.iccs-meeting.org/), Hamburg, Germany
    - 06.29-07.01: [PASC](https://pasc26.pasc-conference.org/), Bern, Switzerland
    - 06.29-07.03: [SciCADE](https://www.scicade.org/), Edinburgh, UK
    - 06.29-07.03: [Saint-Girons V](https://saintgironsconference.eu/), Saint-Girons, France
-   - 07.06-07.10: [SPAA](https://spaa.acm.org/), London, UK
    - 07.08-07.18: [FoCM](https://focm2026.univie.ac.at/), Vienna, Austria
    - 07.13-07.16: [HPDC](https://hpdc.sci.utah.edu/), Cleveland, OH
    - 07.17-07.19: [大数据与人工智能科学大会](http://bdai2026.icrp.xjtu.edu.cn/), 厦门
