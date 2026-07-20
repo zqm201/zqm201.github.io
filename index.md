@@ -29,11 +29,14 @@
    - 11.20-11.23: [解法器快速算法及应用研讨会](https://solver-conference.cn), 深圳
    - 12.01-12.04: [ACML](https://www.acml-conf.org/), Melbourne, Australia
    - 12.06-12.11: [DD30](https://sites.google.com/unal.edu.co/dd30bogota/), Bogota, Colombia
+   - 12.16-12.19: [HiPC](https://hipc.org/), Bengaluru, India
    - (2027) 02.20-02.26: [QIP](https://qip2027.org/), Singapore
    - (2027) 02.22-02.26: [SIAM CSE](https://www.siam.org/conferences-events/siam-conferences/cse27/), Pittsburgh, PA
    - (2027) 03.08-03.12: [GAMM](https://jahrestagung.gamm.org/), Ulm, Germany
    - (2027) 03.20-03.24: [PPoPP](https://ppopp27.sigplan.org/), Salt Lake City, UT
+   - (2027) 05.19-05.20: [EMS TAG SciML](https://ems-tag-sciml.github.io/), Paris, France
    - (2027) 05.24-05.28: [LA27](https://www.siam.org/conferences-events/siam-conferences/la27/), Long Beach, CA
+   - (2027) 06.01-06.05: [IPDPS](https://www.ipdps.org/), Seattle, WA
    - (2027) 06.05-06.11: [SPAA](https://spaa.acm.org/), Atlanta, GA
    - (2027) 06.14-06.18: [LSSC](https://parallel.bas.bg/Conferences/SciCom27/), Sozopol, Bulgaria
    - (2027) 06.22-06.25: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
@@ -54,10 +57,8 @@
    - 01.07-01.09: [METT](https://homes.esat.kuleuven.be/~mettxi/), Leuven, Belgium
    - 02.15-02.20: [Dagstuhl Seminar: Mixed Precision](https://www.dagstuhl.de/26081), Wadern, Germany
    - 03.02-03.06: [PP26](https://www.siam.org/conferences-events/siam-conferences/pp26/), Berlin, Germany
-   - 03.10-03.12: [EMS TAG SciML](https://cds.uni-koeln.de/en/workshops/ems-tag-sciml/save-the-date), Cologne, Germany
    - 04.17-04.20: [中国数学会计算机数学大会](http://www.mmrc.iss.ac.cn/cscm/cm2026/), 镇江
    - 05.18-05.22: [ILAS](https://ilas2026.math.vt.edu/), Blacksburg, VA
-   - 05.25-05.29: [IPDPS](https://www.ipdps.org/), New Orleans, LA
    - 05.27-05.29: [Preconditioning](https://icms.ac.uk/activities/workshop/precond26/), Edinburgh, UK
    - 06.01-06.04: [ESCO](https://esco2026.fel.zcu.cz/), Pilsen, Czech Republic
    - 06.02-06.05: [OP26](https://www.siam.org/conferences-events/siam-conferences/op26/), Edinburgh, UK
@@ -72,4 +73,4 @@
    - 07.08-07.18: [FoCM](https://focm2026.univie.ac.at/), Vienna, Austria
    - 07.13-07.16: [HPDC](https://hpdc.sci.utah.edu/), Cleveland, OH
    - 07.17-07.19: [大数据与人工智能科学大会](http://bdai2026.icrp.xjtu.edu.cn/), 厦门
-* Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CS146S](https://themodernsoftware.dev/), [CUDA](https://docs.nvidia.com/cuda/), [D2L](http://d2l.ai), [EMS TAG SciML](https://ems-tag-sciml.github.io), [HQI](https://www.hqi.fr/en/), [ICMSEC](https://www.cc.ac.cn/), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PBDL](https://physicsbaseddeeplearning.org/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [Qubit Game](https://quantumai.google/education/thequbitgame), [Read the Docs](https://about.readthedocs.com/), [SIAM history](http://history.siam.org), [Sparsitute](https://sparsitute.lbl.gov/), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/), [xkcd](https://xkcd.com)
+* Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CS146S](https://themodernsoftware.dev/), [CUDA](https://docs.nvidia.com/cuda/), [D2L](http://d2l.ai), [HQI](https://www.hqi.fr/en/), [ICMSEC](https://www.cc.ac.cn/), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PBDL](https://physicsbaseddeeplearning.org/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [Qubit Game](https://quantumai.google/education/thequbitgame), [Read the Docs](https://about.readthedocs.com/), [SIAM history](http://history.siam.org), [Sparsitute](https://sparsitute.lbl.gov/), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/), [xkcd](https://xkcd.com)
