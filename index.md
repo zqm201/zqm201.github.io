@@ -12,7 +12,6 @@
    - 08.31-09.04: [TQC](https://tqc-conference.org/), Sherbrooke, Canada
    - 09.03-09.04: [GAMM ANLA](https://indico3.mpi-magdeburg.mpg.de/event/58/), Magdeburg, Germany
    - 09.07-09.08: [Block Krylov](https://workshop.math.cas.cz/BlockKrylov/), Prague, Czech Republic
-   - 09.07-09.11: [ECML-PKDD](https://ecmlpkdd.org/), Naples, Italy
    - 09.14-09.18: [YAMC](https://sites.google.com/view/yamc/), Turin, Italy
    - 09.21-09.25: [ApplMath](https://applmath.math.pmf.unizg.hr/), Dubrovnik, Croatia
    - 09.21-09.24: [AIS](https://ais2026.icas.events/), Grosseto, Italy
@@ -37,9 +36,11 @@
    - (2027) 06.05-06.11: [SPAA](https://spaa.acm.org/), Atlanta, GA
    - (2027) 06.14-06.18: [LSSC](https://parallel.bas.bg/Conferences/SciCom27/), Sozopol, Bulgaria
    - (2027) 06.22-06.25: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
+   - (2027) 06.28-06.30: [PASC](https://pasc-conference.org/), Lugano, Switzerland
    - (2027) 07.12-07.14: [ICCS](https://www.iccs-meeting.org/), Krakow, Poland
    - (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
    - (2027) 07.19-07.23: [IMACS](https://www.imacs2027.eu/), Seville, Spain
+   - (2027) 09.20-09.24: [ECML-PKDD](https://ecmlpkdd.org/), Eindhoven, The Netherlands
 * Past Events:
    - (2024) 03.15-03.20: [ALGORITMY](https://www.math.sk/alg2024/), Bratislava, Slovakia
    - (2025) 06.08-06.13: [Householder Symposium XXII](https://householder-symposium.github.io), Ithaca, NY
@@ -64,7 +65,6 @@
    - 06.17-06.19: [ALAMA](https://congresosalcala.fgua.es/alama2026/), Huelva, Spain
    - 06.21-06.26: [Colorado](https://coloradoconference.github.io/), Boulder, CO
    - 06.21-06.27: [NUMTA](https://www.numta.org), Calabria, Italy
-   - 06.29-07.01: [PASC](https://pasc26.pasc-conference.org/), Bern, Switzerland
    - 06.29-07.03: [SciCADE](https://www.scicade.org/), Edinburgh, UK
    - 06.29-07.03: [Saint-Girons V](https://saintgironsconference.eu/), Saint-Girons, France
    - 07.08-07.18: [FoCM](https://focm2026.univie.ac.at/), Vienna, Austria
