@@ -3,9 +3,6 @@
    - Quantum Computing: [npjQI](https://www.nature.com/npjqi/), [PRA](https://journals.aps.org/pra/), [Quantum](https://quantum-journal.org/), [QMI](https://link.springer.com/journal/42484), [QST](https://iopscience.iop.org/journal/2058-9565), [TQC](https://dl.acm.org/journal/TQC), [TQE](https://tqe.ieee.org/)
 * Societies: [CSIAM](http://csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-   - 08.19-08.22: [京津冀+计算数学学术交流会](https://math.pku.edu.cn/bjscm/tzgg/6ad1431b2afa4530a8d94ef7a0599a44.htm), 哈尔滨
-   - 08.24-08.28: [AQIS](https://aqis-conf.org/), Daejeon, South Korea
-   - 08.27-08.29: [ECT](https://www.civil-comp.info/2026/ect/), Budapest, Hungary
    - 08.30-09.02: [PPAM](https://ppam.edu.pl/), Poznan, Poland
    - 08.31-09.02: [Approximate Computing in N(M)LA](https://indico3.mpi-magdeburg.mpg.de/event/59/), Magdeburg, Germany
    - 08.31-09.04: [NMA26](https://nma26.iict.bas.bg/), Borovets, Bulgaria
@@ -73,4 +70,8 @@
    - 08.02-08.05: [CQCC](https://ccf.org.cn/CQCC2026), 深圳
    - 08.10-08.14: [QSim](https://qsimconference.org/), Amsterdam, The Netherlands
    - 08.18-08.21: [ISNN](https://conference.cs.cityu.edu.hk/isnn/), 汉中
+   - 08.19-08.22: [京津冀+计算数学学术交流会](https://math.pku.edu.cn/bjscm/tzgg/6ad1431b2afa4530a8d94ef7a0599a44.htm), 哈尔滨
+   - 08.23-08.27: [EASIAM](https://easiam26.github.io/), Jeju Island, South Korea
+   - 08.24-08.28: [AQIS](https://aqis-conf.org/), Daejeon, South Korea
+   - 08.27-08.29: [ECT](https://www.civil-comp.info/2026/ect/), Budapest, Hungary
 * Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CS146S](https://themodernsoftware.dev/), [CUDA](https://docs.nvidia.com/cuda/), [D2L](http://d2l.ai), [HQI](https://www.hqi.fr/en/), [ICMSEC](https://www.cc.ac.cn/), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PBDL](https://physicsbaseddeeplearning.org/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [Qubit Game](https://quantumai.google/education/thequbitgame), [Read the Docs](https://about.readthedocs.com/), [SIAM history](http://history.siam.org), [Sparsitute](https://sparsitute.lbl.gov/), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/), [xkcd](https://xkcd.com)
