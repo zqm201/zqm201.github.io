@@ -32,6 +32,7 @@
    - (2027) 07.12-07.14: [ICCS](https://www.iccs-meeting.org/), Krakow, Poland
    - (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
    - (2027) 07.19-07.23: [IMACS](https://www.imacs2027.eu/), Seville, Spain
+   - (2027) 08.30-09.03: [ENUMATH](http://www.enumath2027.eu), Padova, Italy
    - (2027) 09.20-09.24: [ECML-PKDD](https://ecmlpkdd.org/), Eindhoven, The Netherlands
 * Past Events:
    - (2024) 03.15-03.20: [ALGORITMY](https://www.math.sk/alg2024/), Bratislava, Slovakia
@@ -42,7 +43,6 @@
    - (2025) 08.17-08.21: [中国数学会计算数学年会](https://my.31huiyi.com/site/pages/index/index?pageId=dcfa0000-b665-5ae1-afd9-08dd553be668), 长沙
    - (2025) 08.19-08.20: [Nordic NLA](http://nordic-nla.eu/uppsala-meeting-2025/), Uppsala, Sweden
    - (2025) 08.31-09.05: [INdAM](https://events.dm.unipi.it/event/307/), Cortona, Italy
-   - (2025) 09.01-09.05: [ENUMATH](http://www.enumath2025.eu), Heidelberg, Germany
    - (2025) 11.03-11.07: [RAIM](https://raim2025.sciencesconf.org/), Lyon, France
    - 01.07-01.09: [METT](https://homes.esat.kuleuven.be/~mettxi/), Leuven, Belgium
    - 02.15-02.20: [Dagstuhl Seminar: Mixed Precision](https://www.dagstuhl.de/26081), Wadern, Germany
