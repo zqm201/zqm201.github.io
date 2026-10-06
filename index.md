@@ -3,8 +3,6 @@
    - Quantum Computing: [npjQI](https://www.nature.com/npjqi/), [PRA](https://journals.aps.org/pra/), [Quantum](https://quantum-journal.org/), [QMI](https://link.springer.com/journal/42484), [QST](https://iopscience.iop.org/journal/2058-9565), [TQC](https://dl.acm.org/journal/TQC), [TQE](https://tqe.ieee.org/)
 * Societies: [CSIAM](http://csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-   - 10.05-10.09: [AI4Sci](https://ai4sci.eu/), Mainz, Germany
-   - 10.08-10.11: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 兰州
    - 10.14-10.16: [SBAC-PAD](https://coco-arcos.github.io/sbac-pad2026/), Madrid, Spain
    - 10.15-10.16: [AIMSA](https://www.aimsaconference.org/), Sofia, Bulgaria
    - 10.17-10.20: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2026), 深圳
@@ -29,6 +27,7 @@
    - (2027) 07.12-07.14: [ICCS](https://www.iccs-meeting.org/), Krakow, Poland
    - (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
    - (2027) 07.19-07.23: [IMACS](https://www.imacs2027.eu/), Seville, Spain
+   - (2027) 08.xx-08.xx: [Nordic NLA](http://nordic-nla.eu/), Gothenburg, Sweden
    - (2027) 08.30-09.03: [ECML-PKDD](https://ecmlpkdd.org/), Eindhoven, The Netherlands
    - (2027) 08.30-09.03: [ENUMATH](http://www.enumath2027.eu), Padova, Italy
 * Past Events:
@@ -38,7 +37,6 @@
    - (2025) 07.19-07.23: [NASC](https://lsec.cc.ac.cn/~NASCNAG/NASC_pages/Conf_pages/NASC25_pages/), 西安
    - (2025) 08.04-08.07: [数值优化与数值代数国际会议](https://lsec.cc.ac.cn/~icnonla25/), 哈尔滨
    - (2025) 08.17-08.21: [中国数学会计算数学年会](https://my.31huiyi.com/site/pages/index/index?pageId=dcfa0000-b665-5ae1-afd9-08dd553be668), 长沙
-   - (2025) 08.19-08.20: [Nordic NLA](http://nordic-nla.eu/uppsala-meeting-2025/), Uppsala, Sweden
    - (2025) 08.31-09.05: [INdAM](https://events.dm.unipi.it/event/307/), Cortona, Italy
    - (2025) 11.03-11.07: [RAIM](https://raim2025.sciencesconf.org/), Lyon, France
    - 01.07-01.09: [METT](https://homes.esat.kuleuven.be/~mettxi/), Leuven, Belgium
@@ -75,4 +73,6 @@
    - 09.14-09.18: [YAMC](https://sites.google.com/view/yamc/), Turin, Italy
    - 09.21-09.25: [ApplMath](https://applmath.math.pmf.unizg.hr/), Dubrovnik, Croatia
    - 09.21-09.24: [AIS](https://ais2026.icas.events/), Grosseto, Italy
+   - 10.05-10.09: [AI4Sci](https://ai4sci.eu/), Mainz, Germany
+   - 10.08-10.11: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 兰州
 * Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CS146S](https://themodernsoftware.dev/), [CUDA](https://docs.nvidia.com/cuda/), [D2L](http://d2l.ai), [HQI](https://www.hqi.fr/en/), [ICMSEC](https://www.cc.ac.cn/), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PBDL](https://physicsbaseddeeplearning.org/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [Qubit Game](https://quantumai.google/education/thequbitgame), [Read the Docs](https://about.readthedocs.com/), [SIAM history](http://history.siam.org), [Sparsitute](https://sparsitute.lbl.gov/), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/), [xkcd](https://xkcd.com)
