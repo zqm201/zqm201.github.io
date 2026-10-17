@@ -3,10 +3,6 @@
    - Quantum Computing: [npjQI](https://www.nature.com/npjqi/), [PRA](https://journals.aps.org/pra/), [Quantum](https://quantum-journal.org/), [QMI](https://link.springer.com/journal/42484), [QST](https://iopscience.iop.org/journal/2058-9565), [TQC](https://dl.acm.org/journal/TQC), [TQE](https://tqe.ieee.org/)
 * Societies: [CSIAM](http://csiam.org.cn), [ILAS](https://ilasic.org), [SIAM](https://www.siam.org)
 * Upcoming Events:
-   - 10.14-10.16: [SBAC-PAD](https://coco-arcos.github.io/sbac-pad2026/), Madrid, Spain
-   - 10.15-10.16: [AIMSA](https://www.aimsaconference.org/), Sofia, Bulgaria
-   - 10.17-10.20: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2026), 深圳
-   - 10.28-10.30: [ICA3PP](https://hpcn.exeter.ac.uk/ica3pp2026/), Exeter, UK
    - 11.05-11.09: [中国数学会年会](https://zgsxh2026nxsnh.nwu.edu.cn/), 西安
    - 11.15-11.20: [SC](https://sc26.supercomputing.org), Chicago, IL
    - 11.20-11.23: [解法器快速算法及应用研讨会](https://solver-conference.cn), 深圳
@@ -22,7 +18,7 @@
    - (2027) 06.01-06.05: [IPDPS](https://www.ipdps.org/), Seattle, WA
    - (2027) 06.05-06.11: [SPAA](https://spaa.acm.org/), Atlanta, GA
    - (2027) 06.14-06.18: [LSSC](https://parallel.bas.bg/Conferences/SciCom27/), Sozopol, Bulgaria
-   - (2027) 06.22-06.25: [Biennial Numerical Analysis Conference](https://numericalanalysisconference.org.uk), Glasgow, Scotland
+   - (2027) 06.22-06.25: [Biennial Numerical Analysis Conference](https://numericalconference.org/), Glasgow, Scotland
    - (2027) 06.28-06.30: [PASC](https://pasc-conference.org/), Lugano, Switzerland
    - (2027) 07.12-07.14: [ICCS](https://www.iccs-meeting.org/), Krakow, Poland
    - (2027) 07.12-07.16: [ICIAM](https://iciam2027.org), The Hague, The Netherlands
@@ -75,4 +71,8 @@
    - 09.21-09.24: [AIS](https://ais2026.icas.events/), Grosseto, Italy
    - 10.05-10.09: [AI4Sci](https://ai4sci.eu/), Mainz, Germany
    - 10.08-10.11: [中国工业与应用数学学会年会](https://meeting.csiam.org.cn/), 兰州
+   - 10.14-10.16: [SBAC-PAD](https://coco-arcos.github.io/sbac-pad2026/), Madrid, Spain
+   - 10.15-10.16: [AIMSA](https://www.aimsaconference.org/), Sofia, Bulgaria
+   - 10.17-10.20: [CCF全国高性能计算学术年会](https://ccf.org.cn/hpcchina2026), 深圳
+   - 10.28-10.30: [ICA3PP](https://hpcn.exeter.ac.uk/ica3pp2026/), Exeter, UK
 * Misc: [beamer-theme](https://hartwork.org/beamer-theme-matrix/), [Cleve's Corner](https://blogs.mathworks.com/cleve/), [CS146S](https://themodernsoftware.dev/), [CUDA](https://docs.nvidia.com/cuda/), [D2L](http://d2l.ai), [HQI](https://www.hqi.fr/en/), [ICMSEC](https://www.cc.ac.cn/), [IDRIS](http://www.idris.fr/formations/supports_de_cours.html), [PBDL](https://physicsbaseddeeplearning.org/), [PhD simulator](https://research.wmz.ninja/projects/phd/index.html), [Qubit Game](https://quantumai.google/education/thequbitgame), [Read the Docs](https://about.readthedocs.com/), [SIAM history](http://history.siam.org), [Sparsitute](https://sparsitute.lbl.gov/), [SuiteSparse](https://sparse.tamu.edu), [vimsheet](https://vimsheet.com), [What Is](https://nhigham.com/index-of-what-is-articles/), [xkcd](https://xkcd.com)
